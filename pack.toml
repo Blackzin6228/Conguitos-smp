@@ -1,0 +1,13 @@
+name = "CONGUITOS SMP"
+author = "Nikolas"
+version = "8.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "adc70025ab8bd565260478897d4d4497644858b3868258555a9234b7bb4a360a"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.262"

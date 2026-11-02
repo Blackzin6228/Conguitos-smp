@@ -1,0 +1,88 @@
+{
+  "comentario": "Para qual elemento vai cada magia. Valores: sangue, conhecimento, morte, energia ou manter. Ordem: feiticos > escolas > palavras > padrao. Servidor e jogadores precisam do mesmo arquivo.",
+  "ativo": true,
+  "feiticos": {
+    "irons_spellbooks:heal": "conhecimento",
+    "irons_spellbooks:greater_heal": "conhecimento"
+  },
+  "escolas": {
+    "irons_spellbooks:blood": "sangue",
+    "irons_spellbooks:fire": "sangue",
+    "irons_spellbooks:holy": "conhecimento",
+    "irons_spellbooks:ender": "conhecimento",
+    "irons_spellbooks:eldritch": "morte",
+    "irons_spellbooks:ice": "morte",
+    "irons_spellbooks:nature": "morte",
+    "irons_spellbooks:lightning": "energia",
+    "irons_spellbooks:evocation": "energia"
+  },
+  "palavras": {
+    "sangue": [
+      "blood",
+      "fire",
+      "flame",
+      "magma",
+      "lava",
+      "infern",
+      "beast",
+      "flesh",
+      "rage",
+      "vampir",
+      "hemo",
+      "crimson"
+    ],
+    "conhecimento": [
+      "holy",
+      "ender",
+      "arcane",
+      "light",
+      "divine",
+      "mind",
+      "psychic",
+      "celest",
+      "star",
+      "sun",
+      "wisdom",
+      "rune",
+      "time"
+    ],
+    "morte": [
+      "eldritch",
+      "ice",
+      "frost",
+      "nature",
+      "poison",
+      "death",
+      "necro",
+      "soul",
+      "void",
+      "abyss",
+      "shadow",
+      "dark",
+      "decay",
+      "water",
+      "aqua",
+      "ocean",
+      "wither",
+      "bone"
+    ],
+    "energia": [
+      "lightning",
+      "evocation",
+      "storm",
+      "thunder",
+      "chaos",
+      "wind",
+      "air",
+      "geo",
+      "earth",
+      "sound",
+      "tech",
+      "energy",
+      "spark",
+      "electric",
+      "force"
+    ]
+  },
+  "padrao": "energia"
+}

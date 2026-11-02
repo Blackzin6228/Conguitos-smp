@@ -1,0 +1,211 @@
+#BlazeGold Coal Generator
+[blazegold_coal_generator]
+	#Max FE energy storage
+	# Default: 8000000
+	# Range: > 1
+	blazegold_coal_generator_max_fe = 8000000
+	#FE transfer every tick
+	# Default: 2000
+	# Range: > 1
+	blazegold_coal_generator_fe_per_tick = 2000
+	#FE created per burn tick of fuel
+	# Default: 30
+	# Range: > 1
+	blazegold_coal_generator_fe_per_fuel_tick = 30
+	#Multiplier to increase generator speed value
+	# Default: 8
+	# Range: > 1
+	blazegold_coal_generator_burn_speed_multiplier = 8
+	#Multiplier value of every fuel values on item tooltip
+	# Default: 2
+	# Range: > 1
+	blazegold_coal_generator_screen_multiplier = 2
+
+#Celestigem Coal Generator
+[celestigem_coal_generator]
+	#Max FE energy storage
+	# Default: 32000000
+	# Range: > 1
+	celestigem_coal_generator_max_fe = 32000000
+	#FE transfer every tick
+	# Default: 3000
+	# Range: > 1
+	celestigem_coal_generator_fe_per_tick = 3000
+	#FE created per burn tick of fuel
+	# Default: 45
+	# Range: > 1
+	celestigem_coal_generator_fe_per_fuel_tick = 45
+	#Multiplier to increase generator speed value
+	# Default: 12
+	# Range: > 1
+	celestigem_coal_generator_burn_speed_multiplier = 12
+	#Multiplier value of every fuel values on item tooltip
+	# Default: 3
+	# Range: > 1
+	celestigem_coal_generator_screen_multiplier = 3
+
+#Eclipse Alloy Coal Generator
+[eclipse_alloy_coal_generator]
+	#Max FE energy storage
+	# Default: 128000000
+	# Range: > 1
+	eclipse_alloy_coal_generator_max_fe = 128000000
+	#FE transfer every tick
+	# Default: 4000
+	# Range: > 1
+	eclipse_alloy_coal_generator_fe_per_tick = 4000
+	#FE created per burn tick of fuel
+	# Default: 60
+	# Range: > 1
+	eclipse_alloy_coal_generator_fe_per_fuel_tick = 60
+	#Multiplier to increase generator speed value
+	# Default: 16
+	# Range: > 1
+	eclipse_alloy_coal_generator_burn_speed_multiplier = 16
+	#Multiplier value of every fuel values on item tooltip
+	# Default: 4
+	# Range: > 1
+	eclipse_alloy_coal_generator_screen_multiplier = 4
+
+#BlazeGold Fluid Generator
+[blazegold_fuel_generator]
+	#Max FE energy storage
+	# Default: 8000000
+	# Range: > 1
+	blazegold_fuel_generator_max_fe = 8000000
+	#Max Fluid storage
+	# Default: 16000
+	# Range: > 1
+	blazegold_fuel_generator_max_mb = 16000
+	#FE transfer every tick
+	# Default: 2000
+	# Range: > 1
+	blazegold_fuel_generator_fe_per_tick = 2000
+	#Multiplier to increase generator efficiency value
+	# Default: 2
+	# Range: > 1
+	blazegold_fuel_generator_fuel_multiplier = 2
+	#Multiplier value of every fuel values on item tooltip
+	# Default: 2
+	# Range: > 1
+	blazegold_fuel_generator_screen_multiplier = 2
+
+#Celestigem Fluid Generator
+[celestigem_fuel_generator]
+	#Max FE energy storage
+	# Default: 32000000
+	# Range: > 1
+	celestigem_fuel_generator_max_fe = 32000000
+	#Max Fluid storage
+	# Default: 64000
+	# Range: > 1
+	celestigem_fuel_generator_max_mb = 64000
+	#FE transfer every tick
+	# Default: 3000
+	# Range: > 1
+	celestigem_fuel_generator_fe_per_tick = 3000
+	#Multiplier to increase generator efficiency value
+	# Default: 3
+	# Range: > 1
+	celestigem_fuel_generator_fuel_multiplier = 3
+	#Multiplier value of every fuel values on item tooltip
+	# Default: 3
+	# Range: > 1
+	celestigem_fuel_generator_screen_multiplier = 3
+
+#Eclipse Alloy Fluid Generator
+[eclipse_alloy_fuel_generator]
+	#Max FE energy storage
+	# Default: 128000000
+	# Range: > 1
+	eclipse_alloy_fuel_generator_max_fe = 128000000
+	#Max Fluid storage
+	# Default: 256000
+	# Range: > 1
+	eclipse_alloy_fuel_generator_max_mb = 256000
+	#FE transfer every tick
+	# Default: 4000
+	# Range: > 1
+	eclipse_alloy_fuel_generator_fe_per_tick = 4000
+	#Multiplier to increase generator efficiency value
+	# Default: 4
+	# Range: > 1
+	eclipse_alloy_fuel_generator_fuel_multiplier = 4
+	#Multiplier value of every fuel values on item tooltip
+	# Default: 4
+	# Range: > 1
+	eclipse_alloy_fuel_generator_screen_multiplier = 4
+
+#Pocket BlazeGold Generator
+[pocket_blazegold_generator]
+	#Max FE energy storage
+	# Default: 8000000
+	# Range: > 1
+	pocket_blazegold_generator_max_fe = 8000000
+	#FE transfer every tick
+	# Default: 10000
+	# Range: > 1
+	pocket_blazegold_generator_fe_per_tick = 10000
+	#FE created per burn tick of fuel
+	# Default: 30
+	# Range: > 1
+	pocket_blazegold_generator_fe_per_fuel_tick = 30
+	#Multiplier to increase pocket generator speed value
+	# Default: 8
+	# Range: > 1
+	pocket_blazegold_generator_burn_speed_multiplier = 8
+	#Multiplier value of every fuel values on item tooltip
+	# Default: 2
+	# Range: > 1
+	pocket_blazegold_generator_screen_multiplier = 2
+
+#Pocket Celestigem Generator
+[pocket_celestigem_generator]
+	#Max FE energy storage
+	# Default: 32000000
+	# Range: > 1
+	pocket_celestigem_generator_max_fe = 32000000
+	#FE transfer every tick
+	# Default: 15000
+	# Range: > 1
+	pocket_celestigem_generator_fe_per_tick = 15000
+	#FE created per burn tick of fuel
+	# Default: 45
+	# Range: > 1
+	pocket_celestigem_generator_fe_per_fuel_tick = 45
+	#Multiplier to increase pocket generator speed value
+	# Default: 12
+	# Range: > 1
+	pocket_celestigem_generator_burn_speed_multiplier = 12
+	#Multiplier value of every fuel values on item tooltip
+	# Default: 3
+	# Range: > 1
+	pocket_celestigem_generator_screen_multiplier = 3
+
+#Pocket Eclipse Alloy Generator
+[pocket_eclipse_alloy_generator]
+	#Max FE energy storage
+	# Default: 128000000
+	# Range: > 1
+	pocket_eclipse_alloy_generator_max_fe = 128000000
+	#FE transfer every tick
+	# Default: 20000
+	# Range: > 1
+	pocket_eclipse_alloy_generator_fe_per_tick = 20000
+	#FE created per burn tick of fuel
+	# Default: 60
+	# Range: > 1
+	pocket_eclipse_alloy_generator_fe_per_fuel_tick = 60
+	#Multiplier to increase pocket generator speed value
+	# Default: 16
+	# Range: > 1
+	pocket_eclipse_alloy_generator_burn_speed_multiplier = 16
+	#Multiplier value of every fuel values on item tooltip
+	# Default: 4
+	# Range: > 1
+	pocket_eclipse_alloy_generator_screen_multiplier = 4
+
+#Misc
+[misc]
+	#Show only JDT fuels as valid fuels on generators jei
+	show_only_coals = false

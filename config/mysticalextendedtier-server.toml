@@ -1,0 +1,27 @@
+	["Number of uses for each crystal".Uses]
+		# Default: 6000
+		# Range: > 1
+		awakened_supremiumDurability = 6000
+		# Default: 8192
+		# Range: > 1
+		insaniumDurability = 8192
+		# Default: 16384
+		# Range: > 1
+		orniumDurability = 16384
+		# Default: 32768
+		# Range: > 1
+		lightiumDurability = 32768
+		# Default: 65536
+		# Range: > 1
+		torniumDurability = 65536
+		# Default: 131072
+		# Range: > 1
+		ouraniumDurability = 131072
+
+	["Number of uses for each crystal".durabilityEnabled]
+		awakened_supremiumDurabilityEnabled = true
+		insaniumDurabilityEnabled = true
+		orniumDurabilityEnabled = true
+		lightiumDurabilityEnabled = true
+		torniumDurabilityEnabled = true
+		ouraniumDurabilityEnabled = true

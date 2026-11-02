@@ -1,0 +1,24 @@
+{
+  "simbolo": "R$",
+  "portaPainel": 8125,
+  "senhaPainel": "9d3sgdc4P9scEfrD",
+  "historicoACadaMinutos": 30,
+  "avisarJogadores": true,
+  "raioCaixa": 5,
+  "saqueMaximo": 5000,
+  "saqueNaCarteira": true,
+  "pixPrecisaCaixa": false,
+  "taxaPixPorcento": 0.0,
+  "saldoInicial": 0,
+  "renda": {
+    "ativa": true,
+    "valor": 200,
+    "aCadaMinutosOnline": 60
+  },
+  "imposto": {
+    "ativo": true,
+    "taxaPorcento": 2.0,
+    "isencao": 10000,
+    "aCadaHoras": 168
+  }
+}

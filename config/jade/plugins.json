@@ -1,0 +1,281 @@
+{
+  "minecraft": {
+    "item_storage.show_name_amount": 5,
+    "furnace": true,
+    "harvest_tool.show_unbreakable": false,
+    "animal_owner": true,
+    "harvest_tool.effective_tool": true,
+    "energy_storage.style": "PROGRESS_BAR",
+    "item_storage.normal_amount": 9,
+    "item_storage": true,
+    "harvest_tool": true,
+    "armor_stand": true,
+    "fluid_storage.detailed": false,
+    "next_entity_drop": true,
+    "entity_armor.max_for_render": 20,
+    "energy_storage": true,
+    "breaking_progress": true,
+    "tnt_stability": true,
+    "item_storage.items_per_line": 9,
+    "item_frame": true,
+    "crop_progress": true,
+    "command_block": true,
+    "mob_growth": true,
+    "harvest_tool.new_line": false,
+    "waxed": true,
+    "entity_health.max_for_render": 40,
+    "entity_health.show_fractions": false,
+    "mob_spawner": true,
+    "redstone": true,
+    "fluid_storage": true,
+    "jukebox": true,
+    "brewing_stand": true,
+    "energy_storage.detailed": false,
+    "note_block": true,
+    "beehive": true,
+    "fluid_storage.style": "PROGRESS_BAR",
+    "item_storage.detailed_amount": 54,
+    "player_head": true,
+    "lectern": true,
+    "entity_armor": true,
+    "harvest_tool.creative": false,
+    "horse_stats": true,
+    "item_tooltip": true,
+    "entity_health": true,
+    "enchantment_power": true,
+    "zombie_villager": true,
+    "villager_profession": true,
+    "mob_breeding": true,
+    "entity_health.icons_per_line": 10,
+    "total_enchantment_power": true,
+    "potion_effects": true,
+    "painting": true,
+    "chiseled_bookshelf": true
+  },
+  "tempad": {
+    "chronon": true,
+    "rudimentary": true,
+    "anchor": true,
+    "metronome": true,
+    "workstation": true,
+    "timedoor": true
+  },
+  "jadeaddons.create": {
+    "filter": true,
+    "backtank_capacity": true,
+    "goggles.requires_goggles": true,
+    "goggles": false,
+    "blaze_burner": true,
+    "exact_block": true,
+    "goggles.detailed": false,
+    "placard": true
+  },
+  "apothic_spawners": {
+    "spawner": true
+  },
+  "jade": {
+    "coordinates.rel": false,
+    "registry_name.special": false,
+    "block_states": false,
+    "distance": false,
+    "block_face": false,
+    "coordinates": false,
+    "registry_name": "OFF",
+    "block_properties": false,
+    "mod_name": true
+  },
+  "allthemodium": {
+    "teleport_pad": true
+  },
+  "extendedae": {
+    "jade_chamber": true,
+    "jade_wireless": true
+  },
+  "ae2": {
+    "part_icon": true,
+    "debug": true,
+    "charger": true,
+    "part_tooltip": true,
+    "grid_node_state": true,
+    "pattern_provider": true,
+    "part_mod_name": true,
+    "power_storage": true,
+    "crafting_monitor": true,
+    "part_name": true
+  },
+  "botania": {
+    "alfheim_portal": true,
+    "mana_storage": true,
+    "mana_spreader": true,
+    "show_numbers": true,
+    "compact_numbers": false,
+    "progress_bar_color": "#2ECC71",
+    "terra_plate": true,
+    "mana_pool": true,
+    "petal_apothecary": true,
+    "enabled": true,
+    "mana_enchanter": true,
+    "mana_spark": true,
+    "generating_flower": true,
+    "native_colors": false,
+    "brewery": true,
+    "show_binding": true,
+    "runic_altar": true,
+    "mana_pool.recipe": true,
+    "generating_flower.timers": true,
+    "functional_flower": true,
+    "mana_bar_color": "#0095FF"
+  },
+  "mekanism": {
+    "chemical": true,
+    "remove_builtin": true,
+    "fluid": true,
+    "energy": true,
+    "tooltip_renderer": true
+  },
+  "easy_villagers": {
+    "villager": true,
+    "converter": true,
+    "breeder": true
+  },
+  "pipez": {
+    "pipe": true
+  },
+  "productivemetalworks": {
+    "casting": true
+  },
+  "quark": {
+    "oretoise_eating_cooldown": true
+  },
+  "waystones": {
+    "waystone": true
+  },
+  "rats": {
+    "tamed_rat_info": true
+  },
+  "securitycraft": {
+    "showowner": true,
+    "showmodules": true,
+    "block_info": true,
+    "entity_info": true,
+    "showcustomname": true
+  },
+  "framedblocks": {
+    "framed_item_frame": true,
+    "framed_block_generic": true
+  },
+  "dimstorage": {
+    "dim_block_base": true,
+    "dim_tank": true
+  },
+  "jade_access": {
+    "held_item": true,
+    "sign": true,
+    "block": true,
+    "entity": true,
+    "entity_variant": true
+  },
+  "oritech": {
+    "machine_core_controller": true
+  },
+  "mekalights": {
+    "meka_light": true
+  },
+  "modern_industrialization": {
+    "overclock": true,
+    "pipe": true
+  },
+  "apotheosis": {
+    "adventure": true
+  },
+  "vampirism": {
+    "altar_pillar": true,
+    "weapon_table": true,
+    "player_faction.lord_level_number": false,
+    "alchemy_table": true,
+    "entity_faction": true,
+    "entity_blood.show_fraction": false,
+    "entity_blood.max_for_render": 40,
+    "potion_table": true,
+    "totem": true,
+    "research_table": true,
+    "player_faction": true,
+    "entity_blood.icon_per_line": 10,
+    "entity_blood": true,
+    "altar_of_infusion": true,
+    "garlic_beacon": true,
+    "pedestal_charging": true,
+    "altar_of_inspiration": true
+  },
+  "superbwarfare": {
+    "dps_generator": true,
+    "catapult_controller": true,
+    "vehicle_deployer": true,
+    "container_entity": true,
+    "c4_info": true,
+    "vehicle_info": true
+  },
+  "occultism": {
+    "foliot": true,
+    "sacrificial": true
+  },
+  "iceandfire": {
+    "dragon_egg_entity": true,
+    "multipart": true,
+    "dragon_egg_block": true,
+    "dragon": true
+  },
+  "apothic_enchanting": {
+    "ench": true
+  },
+  "balm": {
+    "jade": true
+  },
+  "functionalstorage": {
+    "armory": true,
+    "drawer": true
+  },
+  "mysticalextendedtier": {
+    "infused_farmland": true
+  },
+  "modularrouters": {
+    "router": true
+  },
+  "justdynathings": {
+    "paradox_mixer": true,
+    "stabilizer": true,
+    "echoing_budding": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "exposure": {
+    "lightroom": true,
+    "photograph_frame": true
+  },
+  "jadeaddons.lootr": {
+    "info": true
+  },
+  "mysticalagradditions": {
+    "infused_farmland": true
+  },
+  "betterend": {
+    "plant_growth": true
+  },
+  "supplementaries": {
+    "hat_stand": true
+  },
+  "twilightforest": {
+    "drying_rack": true,
+    "chiseled_bookshelf_spawner": true,
+    "quest_ram_wool": true
+  },
+  "corpse": {
+    "corpse": true
+  },
+  "mysticalagriculture": {
+    "infused_farmland": true,
+    "crop": true,
+    "inferium_crop": true
+  }
+}
