@@ -8885,8 +8885,8 @@ hash = "31b821c5bc20bb8f30ed330dff9df470fe6406fcf106768fb9b5795506d0c747"
 metafile = true
 
 [[files]]
-file = "mods/bancocentral-2.0.0.pw.toml"
-hash = "a4f916a06630c64bbb7d83ab232f88c382311703dfc11ccf0c9be6d34d616f4a"
+file = "mods/bancocentral-2.1.0.pw.toml"
+hash = "b5e55254e7916eab6261c2ba31263bb9a997dfc72344f20c7f68ce0a0be82646"
 metafile = true
 
 [[files]]
