@@ -2,8 +2,8 @@
 """Gera o pack no formato packwiz a partir do que está no repositório.
 
   python3 tools/gerar_pack.py                 -> reescreve index.toml e pack.toml (hashes)
-  python3 tools/gerar_pack.py --jars PASTA    -> além disso, cria mods/*.pw.toml para cada jar da PASTA,
-                                                 apontando para a Release do GitHub (ver RELEASE abaixo)
+  python3 tools/gerar_pack.py --jars          -> além disso, cria mods/*.pw.toml para cada jar em jars/,
+                                                 apontando para o raw.githubusercontent deste repositório
 
 Não depende do binário do packwiz: o formato é só TOML + sha256.
 """
@@ -16,7 +16,7 @@ from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
 DONO, REPO = "Blackzin6228", "conguitos-smp"
-RELEASE = "mods"          # tag da Release do GitHub onde ficam os jars
+PASTA_JARS = "jars"      # pasta do repositório onde ficam os jars dos mods (servidos pelo raw.githubusercontent)
 MC, NEOFORGE = "1.21.1", "21.1.262"
 NOME, AUTOR = "CONGUITOS SMP", "Nikolas"
 
@@ -73,8 +73,10 @@ def nomes_curseforge():
 
 
 def gerar_metafiles(pasta_jars: Path):
-    """Um mods/<nome>.pw.toml por jar, apontando para a Release do GitHub."""
-    base = f"https://github.com/{DONO}/{REPO}/releases/download/{RELEASE}/"
+    """Um mods/<nome>.pw.toml por jar de jars/, apontando para o raw deste repositório."""
+    for velho in (RAIZ / "mods").glob("*.pw.toml"):
+        velho.unlink()
+    base = f"https://raw.githubusercontent.com/{DONO}/{REPO}/main/{PASTA_JARS}/"
     feitos = 0
     for jar in sorted(pasta_jars.glob("*.jar")):
         slug = re.sub(r"[^a-z0-9._-]+", "-", jar.name[:-4].lower()).strip("-")
@@ -141,6 +143,6 @@ def gerar_pack():
 
 if __name__ == "__main__":
     if "--jars" in sys.argv:
-        gerar_metafiles(Path(sys.argv[sys.argv.index("--jars") + 1]))
+        gerar_metafiles(RAIZ / PASTA_JARS)
     gerar_index()
     gerar_pack()

@@ -12,7 +12,7 @@ Faz uma vez só. Depois disso o pack se atualiza sozinho toda vez que você abre
 3. Clique em **Add Instance** (ou *Adicionar instância*) → aba **Import** → cole este link e dê OK:
 
    ```
-   https://github.com/Blackzin6228/Conguitos-smp/releases/latest/download/CONGUITOS-SMP.zip
+   https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/launcher/CONGUITOS-SMP.zip
    ```
 
 4. Dê dois cliques na instância **CONGUITOS SMP**. Na primeira abertura ele baixa tudo (uns 1,3 GB, pode demorar). Nas próximas só baixa o que mudou.
@@ -32,16 +32,16 @@ Memória: a instância já vem com **8 GB** reservados. Se o seu PC tiver 8 GB n
 O pack usa o formato **packwiz**: o Prism roda o `packwiz-installer` antes de abrir o jogo, ele lê o `pack.toml` deste repositório e baixa/atualiza o que estiver diferente.
 
 - `pack.toml` / `index.toml`: gerados por `tools/gerar_pack.py`. **Nunca edite na mão.**
-- `mods/*.pw.toml`: um por mod, com link e hash. Os jars ficam na Release `mods` deste repositório.
+- `mods/*.pw.toml`: um por mod, com link e hash. Os jars ficam na pasta `jars/` deste repositório.
 - `mods/*.jar`: só os nossos (Máscaras Relíquia, Banco Central).
 - `config/`, `kubejs/`, `shaderpacks/`: vão para todo mundo como estão.
-- `launcher/`: o zip de instância do Prism (`build.sh` gera o `CONGUITOS-SMP.zip`, que vai na Release `latest`).
+- `launcher/`: o zip de instância do Prism (`build.sh` gera o `CONGUITOS-SMP.zip`, versionado aqui mesmo).
 - `VERSAO`: versão do pack mostrada no Prism.
 
 ### Atualizar um mod (ou as Máscaras)
 
-1. Coloque o jar novo na Release `mods` (e tire o antigo).
-2. Rode `python3 tools/gerar_pack.py --jars <pasta com os jars>`; ele reescreve os `.pw.toml`, o `index.toml` e o `pack.toml`.
+1. Coloque o jar novo em `jars/` (e apague o antigo).
+2. Rode `python3 tools/gerar_pack.py --jars`; ele reescreve os `.pw.toml`, o `index.toml` e o `pack.toml`.
 3. Suba o número em `VERSAO`, commit, push. Pronto: na próxima vez que cada jogador abrir, atualiza.
 
 ### Lado cliente / servidor
