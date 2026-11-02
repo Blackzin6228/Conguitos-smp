@@ -87,7 +87,7 @@ echo       RAM do PC: ~%GB% GB, o jogo vai usar %MEM% MB
   echo name=CONGUITOS SMP
   echo iconKey=default
   echo OverrideCommands=true
-  echo PreLaunchCommand="$INST_JAVA" -jar packwiz-installer-bootstrap.jar %PACK%
+  echo PreLaunchCommand="\"$INST_JAVA\" -jar packwiz-installer-bootstrap.jar %PACK%"
   echo OverrideMemory=true
   echo MinMemAlloc=1024
   echo MaxMemAlloc=%MEM%

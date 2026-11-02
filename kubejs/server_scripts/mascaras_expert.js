@@ -302,82 +302,82 @@ ServerEvents.recipes(event => {
   event.remove({ id: 'fluxnetworks:gargantuan_flux_storage' })
   event.custom({"type": "fluxnetworks:flux_storage_recipe", "category": "misc", "group": "fluxnetworks", "pattern": ["bbb", "g g", "bbb"], "key": {"b": {"item": "fluxnetworks:herculean_flux_storage"}, "g": {"item": "allthemodium:unobtainium_plate"}}, "result": {"id": "fluxnetworks:gargantuan_flux_storage", "count": 1}}).id('kubejs:expert/fluxnetworks/gargantuan_flux_storage')
 
-  event.shaped('mascaras:capuz_carmim', ['MCM', 'CPC', 'MCM'], {
-    M: 'vampirism:vampire_fang', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_helmet'
+  event.shaped('mascaras:capuz_carmim', ['MCM', 'CPC', 'MAM'], {
+    A: 'mekanism:alloy_atomic', M: 'vampirism:vampire_fang', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_helmet'
   }).id('kubejs:mascaras/capuz_carmim')
 
-  event.shaped('mascaras:jaqueta_carmim', ['MCM', 'CPC', 'MCM'], {
-    M: 'vampirism:vampire_fang', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_chestplate'
+  event.shaped('mascaras:jaqueta_carmim', ['MCM', 'CPC', 'MAM'], {
+    A: 'mekanism:alloy_atomic', M: 'vampirism:vampire_fang', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_chestplate'
   }).id('kubejs:mascaras/jaqueta_carmim')
 
-  event.shaped('mascaras:calca_carmim', ['MCM', 'CPC', 'MCM'], {
-    M: 'vampirism:vampire_fang', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_leggings'
+  event.shaped('mascaras:calca_carmim', ['MCM', 'CPC', 'MAM'], {
+    A: 'mekanism:alloy_atomic', M: 'vampirism:vampire_fang', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_leggings'
   }).id('kubejs:mascaras/calca_carmim')
 
-  event.shaped('mascaras:botas_carmim', ['MCM', 'CPC', 'MCM'], {
-    M: 'vampirism:vampire_fang', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_boots'
+  event.shaped('mascaras:botas_carmim', ['MCM', 'CPC', 'MAM'], {
+    A: 'mekanism:alloy_atomic', M: 'vampirism:vampire_fang', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_boots'
   }).id('kubejs:mascaras/botas_carmim')
 
-  event.shaped('mascaras:capuz_arquivista', ['MCM', 'CPC', 'MCM'], {
-    M: 'irons_spellbooks:arcane_ingot', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_helmet'
+  event.shaped('mascaras:capuz_arquivista', ['MCM', 'CPC', 'MAM'], {
+    A: 'mekanism:alloy_atomic', M: 'irons_spellbooks:arcane_ingot', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_helmet'
   }).id('kubejs:mascaras/capuz_arquivista')
 
-  event.shaped('mascaras:jaqueta_arquivista', ['MCM', 'CPC', 'MCM'], {
-    M: 'irons_spellbooks:arcane_ingot', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_chestplate'
+  event.shaped('mascaras:jaqueta_arquivista', ['MCM', 'CPC', 'MAM'], {
+    A: 'mekanism:alloy_atomic', M: 'irons_spellbooks:arcane_ingot', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_chestplate'
   }).id('kubejs:mascaras/jaqueta_arquivista')
 
-  event.shaped('mascaras:calca_arquivista', ['MCM', 'CPC', 'MCM'], {
-    M: 'irons_spellbooks:arcane_ingot', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_leggings'
+  event.shaped('mascaras:calca_arquivista', ['MCM', 'CPC', 'MAM'], {
+    A: 'mekanism:alloy_atomic', M: 'irons_spellbooks:arcane_ingot', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_leggings'
   }).id('kubejs:mascaras/calca_arquivista')
 
-  event.shaped('mascaras:botas_arquivista', ['MCM', 'CPC', 'MCM'], {
-    M: 'irons_spellbooks:arcane_ingot', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_boots'
+  event.shaped('mascaras:botas_arquivista', ['MCM', 'CPC', 'MAM'], {
+    A: 'mekanism:alloy_atomic', M: 'irons_spellbooks:arcane_ingot', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_boots'
   }).id('kubejs:mascaras/botas_arquivista')
 
-  event.shaped('mascaras:capuz_luto', ['MCM', 'CPC', 'MCM'], {
-    M: 'minecraft:wither_skeleton_skull', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_helmet'
+  event.shaped('mascaras:capuz_luto', ['MCM', 'CPC', 'MAM'], {
+    A: 'mekanism:alloy_atomic', M: 'minecraft:wither_skeleton_skull', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_helmet'
   }).id('kubejs:mascaras/capuz_luto')
 
-  event.shaped('mascaras:jaqueta_luto', ['MCM', 'CPC', 'MCM'], {
-    M: 'minecraft:wither_skeleton_skull', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_chestplate'
+  event.shaped('mascaras:jaqueta_luto', ['MCM', 'CPC', 'MAM'], {
+    A: 'mekanism:alloy_atomic', M: 'minecraft:wither_skeleton_skull', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_chestplate'
   }).id('kubejs:mascaras/jaqueta_luto')
 
-  event.shaped('mascaras:calca_luto', ['MCM', 'CPC', 'MCM'], {
-    M: 'minecraft:wither_skeleton_skull', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_leggings'
+  event.shaped('mascaras:calca_luto', ['MCM', 'CPC', 'MAM'], {
+    A: 'mekanism:alloy_atomic', M: 'minecraft:wither_skeleton_skull', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_leggings'
   }).id('kubejs:mascaras/calca_luto')
 
-  event.shaped('mascaras:botas_luto', ['MCM', 'CPC', 'MCM'], {
-    M: 'minecraft:wither_skeleton_skull', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_boots'
+  event.shaped('mascaras:botas_luto', ['MCM', 'CPC', 'MAM'], {
+    A: 'mekanism:alloy_atomic', M: 'minecraft:wither_skeleton_skull', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_boots'
   }).id('kubejs:mascaras/botas_luto')
 
-  event.shaped('mascaras:capuz_estatico', ['MCM', 'CPC', 'MCM'], {
-    M: 'powah:crystal_spirited', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_helmet'
+  event.shaped('mascaras:capuz_estatico', ['MCM', 'CPC', 'MAM'], {
+    A: 'mekanism:alloy_atomic', M: 'powah:crystal_spirited', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_helmet'
   }).id('kubejs:mascaras/capuz_estatico')
 
-  event.shaped('mascaras:jaqueta_estatico', ['MCM', 'CPC', 'MCM'], {
-    M: 'powah:crystal_spirited', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_chestplate'
+  event.shaped('mascaras:jaqueta_estatico', ['MCM', 'CPC', 'MAM'], {
+    A: 'mekanism:alloy_atomic', M: 'powah:crystal_spirited', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_chestplate'
   }).id('kubejs:mascaras/jaqueta_estatico')
 
-  event.shaped('mascaras:calca_estatico', ['MCM', 'CPC', 'MCM'], {
-    M: 'powah:crystal_spirited', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_leggings'
+  event.shaped('mascaras:calca_estatico', ['MCM', 'CPC', 'MAM'], {
+    A: 'mekanism:alloy_atomic', M: 'powah:crystal_spirited', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_leggings'
   }).id('kubejs:mascaras/calca_estatico')
 
-  event.shaped('mascaras:botas_estatico', ['MCM', 'CPC', 'MCM'], {
-    M: 'powah:crystal_spirited', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_boots'
+  event.shaped('mascaras:botas_estatico', ['MCM', 'CPC', 'MAM'], {
+    A: 'mekanism:alloy_atomic', M: 'powah:crystal_spirited', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_boots'
   }).id('kubejs:mascaras/botas_estatico')
 
   // 1.29 — Traje do Agente: o investigador (bússola, couro, pano) sobre vibranium
-  event.shaped('mascaras:capuz_agente', ['MCM', 'CPC', 'MCM'], {
-    M: 'minecraft:recovery_compass', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_helmet'
+  event.shaped('mascaras:capuz_agente', ['MCM', 'CPC', 'MAM'], {
+    A: 'mekanism:alloy_atomic', M: 'minecraft:recovery_compass', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_helmet'
   }).id('kubejs:mascaras/capuz_agente')
-  event.shaped('mascaras:jaqueta_agente', ['MCM', 'CPC', 'MCM'], {
-    M: 'minecraft:recovery_compass', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_chestplate'
+  event.shaped('mascaras:jaqueta_agente', ['MCM', 'CPC', 'MAM'], {
+    A: 'mekanism:alloy_atomic', M: 'minecraft:recovery_compass', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_chestplate'
   }).id('kubejs:mascaras/jaqueta_agente')
-  event.shaped('mascaras:calca_agente', ['MCM', 'CPC', 'MCM'], {
-    M: 'minecraft:recovery_compass', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_leggings'
+  event.shaped('mascaras:calca_agente', ['MCM', 'CPC', 'MAM'], {
+    A: 'mekanism:alloy_atomic', M: 'minecraft:recovery_compass', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_leggings'
   }).id('kubejs:mascaras/calca_agente')
-  event.shaped('mascaras:botas_agente', ['MCM', 'CPC', 'MCM'], {
-    M: 'minecraft:recovery_compass', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_boots'
+  event.shaped('mascaras:botas_agente', ['MCM', 'CPC', 'MAM'], {
+    A: 'mekanism:alloy_atomic', M: 'minecraft:recovery_compass', C: 'botania:manaweave_cloth', P: 'allthemodium:vibranium_boots'
   }).id('kubejs:mascaras/botas_agente')
 
   // 1.29 — Traje do Marcado: costurado com os QUATRO componentes e Linha do Avesso sobre a peça dos quatro trajes
