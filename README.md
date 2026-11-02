@@ -12,7 +12,7 @@ Faz uma vez só. Depois disso o pack se atualiza sozinho toda vez que você abre
 3. Clique em **Add Instance** (ou *Adicionar instância*) → aba **Import** → cole este link e dê OK:
 
    ```
-   https://github.com/Blackzin6228/conguitos-smp/releases/latest/download/CONGUITOS-SMP.zip
+   https://github.com/Blackzin6228/Conguitos-smp/releases/latest/download/CONGUITOS-SMP.zip
    ```
 
 4. Dê dois cliques na instância **CONGUITOS SMP**. Na primeira abertura ele baixa tudo (uns 1,3 GB, pode demorar). Nas próximas só baixa o que mudou.
