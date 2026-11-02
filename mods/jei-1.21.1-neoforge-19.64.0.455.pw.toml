@@ -1,6 +1,6 @@
 name = "jei-1.21.1-neoforge-19.64.0.455"
 filename = "jei-1.21.1-neoforge-19.64.0.455.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/jei-1.21.1-neoforge-19.64.0.455.jar"

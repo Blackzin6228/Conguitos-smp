@@ -30,11 +30,11 @@ IGNORAR = {".DS_Store", "Thumbs.db"}
 CLIENTE = [
     "sodium", "sodiumsable", "iris", "embeddium", "entityculling", "dynamic-fps", "immediatelyfast", "badoptimizations",
     "moreculling", "skinlayers3d", "chat_heads", "chatanimation", "justzoom", "controlling", "searchables", "mousetweaks",
-    "emi-", "jei-", "jadeaddons", "watermedia", "watervision", "euphoriapatcher", "crashassistant", "colorwheel",
+    "emi-", "watermedia", "euphoriapatcher", "crashassistant", "colorwheel",
     "particlerain", "particular", "asyncparticles", "overflowingbars", "better-advanced-tooltips", "obscure_tooltips",
     "apothic_tooltip_cleanup", "cinematiccataclysm", "smoothchunk", "redirected", "flerovium", "ksyxis",
     "justenoughresources", "justenoughprofessions", "justenoughmekanismmultiblocks", "mekagenjei", "xaerominimap",
-    "xaeroworldmap", "xaeroplus", "xaeros_waystones", "appleskin", "fastpaintings", "legendarytooltips", "aaa_particles",
+    "xaeroworldmap", "xaeroplus", "xaeros_waystones", "fastpaintings", "legendarytooltips", 
 ]
 # mods que só fazem sentido no servidor (o cliente não precisa, mas também não atrapalha)
 SERVIDOR = ["servercore", "letmedespawn", "immersive_optimization", "crashutilities", "vcadmin"]

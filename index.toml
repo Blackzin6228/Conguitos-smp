@@ -8667,7 +8667,7 @@ metafile = true
 
 [[files]]
 file = "mods/aaa_particles-neoforge-1.21.1-2.3.4.pw.toml"
-hash = "56e5efed3975f08b995c4cb0fe06b782d01216cc902b855ca2f98f0b5412732d"
+hash = "91687a4849712ddc75663b2ff7aa7c4bd3a48c78572cf61e2a8e1e05abfa7c36"
 metafile = true
 
 [[files]]
@@ -8807,7 +8807,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin-neoforge-mc1.21-3.0.9.pw.toml"
-hash = "b86c64b0200e886147cb69f2faa6f86c30d28ae46f6990481d6d077470477628"
+hash = "a12766403ae25d63430923d65d8e94ee52bed7ba3552924e574334653308f81f"
 metafile = true
 
 [[files]]
@@ -9667,12 +9667,12 @@ metafile = true
 
 [[files]]
 file = "mods/jadeaddons-1.21.1-neoforge-6.1.2.pw.toml"
-hash = "3a34b3aede14c6043d2f9cf09d72984818d3813939299a7fb77d5d0cdc9764a6"
+hash = "5912e16b9c21c6c8a08eb39ffe276efabf2a61f3b4849c005ecce211cf30a2fa"
 metafile = true
 
 [[files]]
 file = "mods/jei-1.21.1-neoforge-19.64.0.455.pw.toml"
-hash = "2e06407f3207354117b6987e6f24e9ae7663526b83a84fd03924e7f756162ae0"
+hash = "b6b9458507d514852f24c55e4e19daf543e5d63534d7dad3bf08a3a7ad6e4b33"
 metafile = true
 
 [[files]]
@@ -10587,7 +10587,7 @@ metafile = true
 
 [[files]]
 file = "mods/watervision-nf-mc1.21.1-v0.1.0-alpha.pw.toml"
-hash = "f568d551bc5e66b634a5c38832d191cbd687e29eae71caf49149d620e43bafb2"
+hash = "bec8297da870e73693b7490b0f75c9d53142034214845a137b147e153d951a51"
 metafile = true
 
 [[files]]

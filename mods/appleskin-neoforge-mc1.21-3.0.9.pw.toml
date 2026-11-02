@@ -1,6 +1,6 @@
 name = "appleskin-neoforge-mc1.21-3.0.9"
 filename = "appleskin-neoforge-mc1.21-3.0.9.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/appleskin-neoforge-mc1.21-3.0.9.jar"

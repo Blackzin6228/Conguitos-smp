@@ -1,6 +1,6 @@
 name = "JadeAddons-1.21.1-NeoForge-6.1.2"
 filename = "JadeAddons-1.21.1-NeoForge-6.1.2.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/JadeAddons-1.21.1-NeoForge-6.1.2.jar"
