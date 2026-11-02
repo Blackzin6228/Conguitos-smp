@@ -5,6 +5,13 @@ Servidor: `kayn.lura.host:42044` (já vem salvo na lista de servidores).
 
 ## Como instalar (jogadores)
 
+**Jeito fácil (Windows):** baixe o [`INSTALAR-CONGUITOS.bat`](https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/launcher/INSTALAR-CONGUITOS.bat) e dê dois cliques.
+Ele instala o Prism Launcher, cria a instância, ajusta a memória ao seu PC e põe o atalho **CONGUITOS SMP** na Área de Trabalho,
+que abre o jogo já entrando no servidor. Na primeira vez o Prism pede o login da conta Microsoft. Se o Windows avisar
+"O Windows protegeu o computador", clique em *Mais informações* → *Executar assim mesmo*.
+
+**Jeito manual** (se preferir, ou fora do Windows):
+
 Faz uma vez só. Depois disso o pack se atualiza sozinho toda vez que você abre o jogo.
 
 1. Instale o **Prism Launcher**: <https://prismlauncher.org/download/> (Windows: baixe o instalador, próximo, próximo, concluir).
