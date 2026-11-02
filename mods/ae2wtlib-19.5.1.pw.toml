@@ -1,0 +1,8 @@
+name = "ae2wtlib-19.5.1"
+filename = "ae2wtlib-19.5.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/ae2wtlib-19.5.1.jar"
+hash-format = "sha256"
+hash = "407e7300351353cb4cb7698286e180aef2bd6e7a97ec7efc6493f9daa4dbffe5"

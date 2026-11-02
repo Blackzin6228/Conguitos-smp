@@ -1,0 +1,8 @@
+name = "MoreMekanismProcessing-1.21.1-6.8"
+filename = "MoreMekanismProcessing-1.21.1-6.8.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/MoreMekanismProcessing-1.21.1-6.8.jar"
+hash-format = "sha256"
+hash = "d57654258885a1a6a42bf0933ee2ff5e334098f8a9aaab86867207fe31dacdb7"

@@ -1,0 +1,8 @@
+name = "enigmaticlegacyplus-1.21.1-1.1.2"
+filename = "enigmaticlegacyplus-1.21.1-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/enigmaticlegacyplus-1.21.1-1.1.2.jar"
+hash-format = "sha256"
+hash = "ac46c7b84cc66986854813527baeb859665c6d1793638349c99c4d4f622abc90"

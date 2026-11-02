@@ -1,0 +1,8 @@
+name = "ApothicSpawners-1.21.1-1.4.0"
+filename = "ApothicSpawners-1.21.1-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/ApothicSpawners-1.21.1-1.4.0.jar"
+hash-format = "sha256"
+hash = "f0cbc52ad606997789c36fac94ae651ab7e2e21c841e26a952c64041cad9cdbe"

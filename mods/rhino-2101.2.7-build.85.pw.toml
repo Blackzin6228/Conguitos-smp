@@ -1,0 +1,8 @@
+name = "rhino-2101.2.7-build.85"
+filename = "rhino-2101.2.7-build.85.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/rhino-2101.2.7-build.85.jar"
+hash-format = "sha256"
+hash = "95df92ce578b2504cb16d8c9fc285303bf062eb15452246a18e57b7cf091c19a"

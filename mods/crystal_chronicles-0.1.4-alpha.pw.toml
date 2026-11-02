@@ -1,0 +1,8 @@
+name = "crystal_chronicles-0.1.4-alpha"
+filename = "crystal_chronicles-0.1.4-alpha.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/crystal_chronicles-0.1.4-alpha.jar"
+hash-format = "sha256"
+hash = "8b50bea741d73dade96ffd509a60cadaf647293d51867e0e455d806f0f74b576"

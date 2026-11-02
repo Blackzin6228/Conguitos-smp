@@ -1,0 +1,8 @@
+name = "particular-1.21.1-NeoForge-1.5.7"
+filename = "particular-1.21.1-NeoForge-1.5.7.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/particular-1.21.1-NeoForge-1.5.7.jar"
+hash-format = "sha256"
+hash = "42c5ba95472c233a455da440e08a74be69cba616493292c0830cf47a47a9498e"

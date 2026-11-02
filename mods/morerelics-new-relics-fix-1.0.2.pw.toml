@@ -1,0 +1,8 @@
+name = "morerelics-new-relics-fix-1.0.2"
+filename = "morerelics-new-relics-fix-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/morerelics-new-relics-fix-1.0.2.jar"
+hash-format = "sha256"
+hash = "a0abe076fd04801cc79db83a931566146b0f6c741aecc4e3a19ac6e1ae508138"

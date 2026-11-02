@@ -1,0 +1,8 @@
+name = "Data_Anchor-neoforge-1.21.1-2.0.0.18"
+filename = "Data_Anchor-neoforge-1.21.1-2.0.0.18.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/Data_Anchor-neoforge-1.21.1-2.0.0.18.jar"
+hash-format = "sha256"
+hash = "53828cb3371672e7306795f9c5b640fd37ff79067ce715f2922b5a01530bc5cb"

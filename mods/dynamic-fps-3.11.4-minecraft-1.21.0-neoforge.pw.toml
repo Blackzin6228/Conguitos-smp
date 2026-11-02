@@ -1,0 +1,8 @@
+name = "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge"
+filename = "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar"
+hash-format = "sha256"
+hash = "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e"

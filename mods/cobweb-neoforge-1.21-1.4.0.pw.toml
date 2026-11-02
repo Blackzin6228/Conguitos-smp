@@ -1,0 +1,8 @@
+name = "cobweb-neoforge-1.21-1.4.0"
+filename = "cobweb-neoforge-1.21-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/cobweb-neoforge-1.21-1.4.0.jar"
+hash-format = "sha256"
+hash = "40c151dcee6a08decdd980a7c7ffed6ada292e77c3d2cd7aea2d01e5fa8d3b1c"

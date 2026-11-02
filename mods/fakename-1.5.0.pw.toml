@@ -1,0 +1,8 @@
+name = "fakename-1.5.0"
+filename = "fakename-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/fakename-1.5.0.jar"
+hash-format = "sha256"
+hash = "ea1460f4f5c5bfd2602cec0433fefd09b600c27c3166163995e5a2113f77dc63"

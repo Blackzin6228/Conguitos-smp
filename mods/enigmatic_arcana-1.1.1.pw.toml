@@ -1,0 +1,8 @@
+name = "enigmatic_arcana-1.1.1"
+filename = "enigmatic_arcana-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/enigmatic_arcana-1.1.1.jar"
+hash-format = "sha256"
+hash = "fb275c3d85312fafce34d95361924c65fea78427c7aef07f198e4f472464b569"

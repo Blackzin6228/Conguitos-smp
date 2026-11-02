@@ -1,0 +1,8 @@
+name = "eternalstarlight-0.9.1+1.21.1+neoforge"
+filename = "eternalstarlight-0.9.1+1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/eternalstarlight-0.9.1%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha256"
+hash = "e77369ad1a779036b243ef0f7b24776640a3ff84968e6f3be1931bc953e92b09"

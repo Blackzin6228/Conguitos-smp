@@ -1,0 +1,8 @@
+name = "Quark-4.1-488"
+filename = "Quark-4.1-488.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/Quark-4.1-488.jar"
+hash-format = "sha256"
+hash = "f693092c4bc54e8ef427ff98f93926fd85875e45d2697b9db7c45f551ae24feb"

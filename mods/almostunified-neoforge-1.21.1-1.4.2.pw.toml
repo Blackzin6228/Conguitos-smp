@@ -1,0 +1,8 @@
+name = "almostunified-neoforge-1.21.1-1.4.2"
+filename = "almostunified-neoforge-1.21.1-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/almostunified-neoforge-1.21.1-1.4.2.jar"
+hash-format = "sha256"
+hash = "65202adf4dccf7b3033537e539e23eccc541c6a15ad88d87fa1c5a09ceb3359f"

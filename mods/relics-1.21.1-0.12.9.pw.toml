@@ -1,0 +1,8 @@
+name = "relics-1.21.1-0.12.9"
+filename = "relics-1.21.1-0.12.9.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/relics-1.21.1-0.12.9.jar"
+hash-format = "sha256"
+hash = "dfbf73a0de0f3ec99e3765fd1df523ce600a55473f1cd2ab7e37f6d25f89b6b8"

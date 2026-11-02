@@ -1,0 +1,8 @@
+name = "amendments-1.21-2.2.5-neoforge"
+filename = "amendments-1.21-2.2.5-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/amendments-1.21-2.2.5-neoforge.jar"
+hash-format = "sha256"
+hash = "31b241f96256b6e3f328287d93139527fb49e8a3306fa20cc493819648d347a6"

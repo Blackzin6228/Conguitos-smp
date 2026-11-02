@@ -1,0 +1,8 @@
+name = "ad_astra_more_structures-1.21.1-neoforge"
+filename = "ad_astra_more_structures-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/ad_astra_more_structures-1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "873b0b1c903c61a0df66696af547f4e104093c6b380b8349861423a2f0921bd2"

@@ -1,0 +1,8 @@
+name = "JustEnoughMekanismMultiblocks-1.21.1-7.23"
+filename = "JustEnoughMekanismMultiblocks-1.21.1-7.23.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/JustEnoughMekanismMultiblocks-1.21.1-7.23.jar"
+hash-format = "sha256"
+hash = "69ba91372eed3ad69cafcc6bd8e2afec85e2a009a13e4e4814c4f474812985d6"

@@ -1,0 +1,8 @@
+name = "irons_lib-1.21.1-2.3.0"
+filename = "irons_lib-1.21.1-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/irons_lib-1.21.1-2.3.0.jar"
+hash-format = "sha256"
+hash = "578d9ebfad529c0587efab2690bb469811f3a0a3593064c74263fdf909449f39"

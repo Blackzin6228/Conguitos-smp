@@ -1,0 +1,8 @@
+name = "AsyncParticles-21.1.4.10+1.21.1"
+filename = "AsyncParticles-21.1.4.10+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/AsyncParticles-21.1.4.10%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "860c7754101bb15798744891a4d63a329134302ae61ff3faf44d501885ab9fd8"

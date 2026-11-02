@@ -1,0 +1,8 @@
+name = "bloodlines-1.21-3.0.9"
+filename = "bloodlines-1.21-3.0.9.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/bloodlines-1.21-3.0.9.jar"
+hash-format = "sha256"
+hash = "bfe0554df759a68d4603e23f05838adf812e8368a2e78d2ffa9b5645a761b1fc"

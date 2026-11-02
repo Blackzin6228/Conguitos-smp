@@ -1,0 +1,8 @@
+name = "MysticalExtendedTier-1.2.1.1-1.0.6"
+filename = "MysticalExtendedTier-1.2.1.1-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/MysticalExtendedTier-1.2.1.1-1.0.6.jar"
+hash-format = "sha256"
+hash = "cfc66e7541d0f2b575306f83ac9c5871c2e062159db363e24de2e204491d00e8"

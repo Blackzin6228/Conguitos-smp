@@ -1,0 +1,8 @@
+name = "trade-cycling-neoforge-1.21.1-1.0.23"
+filename = "trade-cycling-neoforge-1.21.1-1.0.23.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/trade-cycling-neoforge-1.21.1-1.0.23.jar"
+hash-format = "sha256"
+hash = "c2a407326ccfeaa06f1f6424a48e1bca391754edc77dc76a0ba2c8ace5158c93"

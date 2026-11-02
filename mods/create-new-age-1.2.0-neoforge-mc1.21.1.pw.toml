@@ -1,0 +1,8 @@
+name = "create-new-age-1.2.0+neoforge-mc1.21.1"
+filename = "create-new-age-1.2.0+neoforge-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/create-new-age-1.2.0%2Bneoforge-mc1.21.1.jar"
+hash-format = "sha256"
+hash = "a217ea21ccc8364e99d86777e519436bc7c94516df9737ad0103047e48a44717"

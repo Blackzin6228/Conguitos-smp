@@ -1,0 +1,8 @@
+name = "polyeng-0.4.1"
+filename = "polyeng-0.4.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/polyeng-0.4.1.jar"
+hash-format = "sha256"
+hash = "69e565dc00abc5881ccff6801c8a0817f479eaf871d578aefd992b9b6614a2f9"

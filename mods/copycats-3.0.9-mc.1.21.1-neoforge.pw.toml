@@ -1,0 +1,8 @@
+name = "copycats-3.0.9+mc.1.21.1-neoforge"
+filename = "copycats-3.0.9+mc.1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/copycats-3.0.9%2Bmc.1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "d1efdd8688af6603dff9425299ac4547ef56a7d5cfee757716ead7853276694e"

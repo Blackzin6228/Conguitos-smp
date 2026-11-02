@@ -1,0 +1,8 @@
+name = "tesseract-api-neoforge-1.12.19-1.21.1"
+filename = "tesseract-api-neoforge-1.12.19-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/tesseract-api-neoforge-1.12.19-1.21.1.jar"
+hash-format = "sha256"
+hash = "bcf505bb7e2ef63eed03a5e4c437e1d583dd1994297eb9db4ccea3d2aafb9c2c"

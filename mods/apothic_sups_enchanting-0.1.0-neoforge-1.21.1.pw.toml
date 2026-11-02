@@ -1,0 +1,8 @@
+name = "apothic_sups_enchanting-0.1.0-neoforge-1.21.1"
+filename = "apothic_sups_enchanting-0.1.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/apothic_sups_enchanting-0.1.0-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "ed6490feab447deb5a1f03278236e144147ce40a6fe6eb50a9b9c795afd0a5c8"

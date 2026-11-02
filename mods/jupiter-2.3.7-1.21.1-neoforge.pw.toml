@@ -1,0 +1,8 @@
+name = "jupiter-2.3.7-1.21.1-neoforge"
+filename = "jupiter-2.3.7-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/jupiter-2.3.7-1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "95af332af250f97fe2d9d288fe6b2057c266673a388348bf33756b0b693ace15"

@@ -1,0 +1,8 @@
+name = "uranus-2.4.1-bugfix-1.21.1-neoforge"
+filename = "uranus-2.4.1-bugfix-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/uranus-2.4.1-bugfix-1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "2f98db9e0fed13aad87340beaff185e95c9d56ee27cdf1d111346b91a5725a69"

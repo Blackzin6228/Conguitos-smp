@@ -1,0 +1,8 @@
+name = "simplyswords-neoforge-1.70.2-1.21.1"
+filename = "simplyswords-neoforge-1.70.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/simplyswords-neoforge-1.70.2-1.21.1.jar"
+hash-format = "sha256"
+hash = "5e75bd66ea489079d60c9c1ed98762550fbc0bee88cd7af399f17bbeb56608c3"

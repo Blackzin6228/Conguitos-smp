@@ -1,0 +1,8 @@
+name = "coolrain-1.21.1-NeoForge-1.0.2"
+filename = "coolrain-1.21.1-NeoForge-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/coolrain-1.21.1-NeoForge-1.0.2.jar"
+hash-format = "sha256"
+hash = "8c2c6070b41509b68a5b32fe0881a9d21393bd737d58aa6b45c7d96e2ae66fec"

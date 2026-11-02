@@ -1,0 +1,8 @@
+name = "simplycataclysm-1.0.2+1.21.1+neoforge"
+filename = "simplycataclysm-1.0.2+1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/simplycataclysm-1.0.2%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha256"
+hash = "eabcec8178fd05f24d1213d6649888fda6ba9df7b3b6cfebb5a719913b2a14a0"

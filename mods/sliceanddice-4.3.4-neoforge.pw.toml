@@ -1,0 +1,8 @@
+name = "sliceanddice-4.3.4-neoforge"
+filename = "sliceanddice-4.3.4-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/sliceanddice-4.3.4-neoforge.jar"
+hash-format = "sha256"
+hash = "b3982e89611761d7f1cdce90794cd88498a2c9e1447d8a1aba33ed831f3c9201"

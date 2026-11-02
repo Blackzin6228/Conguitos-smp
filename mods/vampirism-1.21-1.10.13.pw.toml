@@ -1,0 +1,8 @@
+name = "Vampirism-1.21-1.10.13"
+filename = "Vampirism-1.21-1.10.13.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/Vampirism-1.21-1.10.13.jar"
+hash-format = "sha256"
+hash = "e12dafe76bf5df1ab3ed2c94d67bc121eedd8399a88460248edf530180382f97"

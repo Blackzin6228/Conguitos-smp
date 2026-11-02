@@ -1,0 +1,8 @@
+name = "immersive_paintings-neoforge-1.21.1-0.8.0"
+filename = "immersive_paintings-neoforge-1.21.1-0.8.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/immersive_paintings-neoforge-1.21.1-0.8.0.jar"
+hash-format = "sha256"
+hash = "baf3ecd72d45baebd8f19b82a3b78363190d3b7bd9505cb6d59628ef7e49e4c9"

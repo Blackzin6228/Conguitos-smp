@@ -1,0 +1,8 @@
+name = "appliedenergistics2-19.2.18"
+filename = "appliedenergistics2-19.2.18.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/appliedenergistics2-19.2.18.jar"
+hash-format = "sha256"
+hash = "df15a07f86ca1ca93aa66373f9d5d84dd3d4586631fceb38f4fbc85dad591e39"

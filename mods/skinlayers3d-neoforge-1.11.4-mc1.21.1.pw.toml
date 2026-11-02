@@ -1,0 +1,8 @@
+name = "skinlayers3d-neoforge-1.11.4-mc1.21.1"
+filename = "skinlayers3d-neoforge-1.11.4-mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar"
+hash-format = "sha256"
+hash = "0b6594418245efbe4ae2cf7fde133878d56a4c41eff06e231ba7e1a233e0b615"

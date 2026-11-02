@@ -1,0 +1,8 @@
+name = "industrialization_overdrive-1.14.0+1.21.1"
+filename = "industrialization_overdrive-1.14.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/industrialization_overdrive-1.14.0%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "8b0a920a49d43ef4ba884c478e9e64ebc700913cc6ba257d4e89c4d7131cb545"

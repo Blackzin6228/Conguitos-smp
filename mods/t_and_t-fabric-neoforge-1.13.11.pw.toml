@@ -1,0 +1,8 @@
+name = "t_and_t-fabric-neoforge-1.13.11"
+filename = "t_and_t-fabric-neoforge-1.13.11.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/t_and_t-fabric-neoforge-1.13.11.jar"
+hash-format = "sha256"
+hash = "270fc0d1c99e54bc15f43d64bdaac60a90cb896efc357af624988e677136440f"

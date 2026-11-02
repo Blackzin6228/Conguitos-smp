@@ -1,0 +1,8 @@
+name = "twilight_lootr-neoforge-1.21.1-0.0.0.1"
+filename = "twilight_lootr-neoforge-1.21.1-0.0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/twilight_lootr-neoforge-1.21.1-0.0.0.1.jar"
+hash-format = "sha256"
+hash = "44197253302ced111765b2808779822be417619fd28cc1a6e38b084d8b6c7398"

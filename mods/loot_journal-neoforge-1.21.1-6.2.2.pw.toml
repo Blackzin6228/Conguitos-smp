@@ -1,0 +1,8 @@
+name = "loot_journal-neoforge-1.21.1-6.2.2"
+filename = "loot_journal-neoforge-1.21.1-6.2.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/loot_journal-neoforge-1.21.1-6.2.2.jar"
+hash-format = "sha256"
+hash = "6c837ca694f7f7e59fb371e8e2d4508cabe4a4729058b490f4e166db45af4473"

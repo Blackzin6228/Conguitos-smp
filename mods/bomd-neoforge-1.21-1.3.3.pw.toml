@@ -1,0 +1,8 @@
+name = "BOMD-NeoForge-1.21-1.3.3"
+filename = "BOMD-NeoForge-1.21-1.3.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/BOMD-NeoForge-1.21-1.3.3.jar"
+hash-format = "sha256"
+hash = "93da8753a00229e41c5ed399e6cf849737e7bd9b4109d5d8e4ad3a20136deb82"

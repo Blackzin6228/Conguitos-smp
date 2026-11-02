@@ -1,0 +1,8 @@
+name = "MekanismEnchantableMekasuit-1.21.1-1.0.3"
+filename = "MekanismEnchantableMekasuit-1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/MekanismEnchantableMekasuit-1.21.1-1.0.3.jar"
+hash-format = "sha256"
+hash = "a86058ebf6aacbdc92c9f2e4683ef6a964e5bf8e520a055470c04113eb71d123"

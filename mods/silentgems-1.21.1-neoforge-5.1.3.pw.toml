@@ -1,0 +1,8 @@
+name = "silentgems-1.21.1-neoforge-5.1.3"
+filename = "silentgems-1.21.1-neoforge-5.1.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/silentgems-1.21.1-neoforge-5.1.3.jar"
+hash-format = "sha256"
+hash = "595eef36895991a5a2199e6b6bfb1b55cabb3f7a9e808d396697aec1fe4fdc3d"

@@ -1,0 +1,8 @@
+name = "hazennstuff-1.4.0.14"
+filename = "hazennstuff-1.4.0.14.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/hazennstuff-1.4.0.14.jar"
+hash-format = "sha256"
+hash = "eeacf5b5536bbe2691e1687902a8c37cff775829457db6e116261bbff7a00462"

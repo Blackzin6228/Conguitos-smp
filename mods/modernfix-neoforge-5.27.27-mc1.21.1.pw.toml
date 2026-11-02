@@ -1,0 +1,8 @@
+name = "modernfix-neoforge-5.27.27+mc1.21.1"
+filename = "modernfix-neoforge-5.27.27+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/modernfix-neoforge-5.27.27%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "7010aae2e837122fe8dabd5932358e2ba334fcbc62ca6530cb1cb00402d2c63b"

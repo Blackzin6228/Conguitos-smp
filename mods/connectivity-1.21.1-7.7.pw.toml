@@ -1,0 +1,8 @@
+name = "connectivity-1.21.1-7.7"
+filename = "connectivity-1.21.1-7.7.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/connectivity-1.21.1-7.7.jar"
+hash-format = "sha256"
+hash = "d2f7cecb93199139c4ff783161c4b9ec106589f72bb3febe85349178e7547cf3"

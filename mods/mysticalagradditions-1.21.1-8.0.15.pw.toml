@@ -1,0 +1,8 @@
+name = "MysticalAgradditions-1.21.1-8.0.15"
+filename = "MysticalAgradditions-1.21.1-8.0.15.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/MysticalAgradditions-1.21.1-8.0.15.jar"
+hash-format = "sha256"
+hash = "8876b360dedf006cd3bff26719fccc4b148d626fb8be1e7f5e427107826fb01e"

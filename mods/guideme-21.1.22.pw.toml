@@ -1,0 +1,8 @@
+name = "guideme-21.1.22"
+filename = "guideme-21.1.22.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/guideme-21.1.22.jar"
+hash-format = "sha256"
+hash = "108337ff98c706b18ed2fbec077b3337ba72c08f8b46a273534886280e89ef0d"

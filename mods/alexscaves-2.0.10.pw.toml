@@ -1,0 +1,8 @@
+name = "alexscaves-2.0.10"
+filename = "alexscaves-2.0.10.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/alexscaves-2.0.10.jar"
+hash-format = "sha256"
+hash = "6fad35bf07fcb977aaa32d3fe05bf122150c6a30ed16b057385040207a3b788f"

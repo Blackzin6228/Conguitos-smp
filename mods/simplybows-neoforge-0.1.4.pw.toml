@@ -1,0 +1,8 @@
+name = "SimplyBows-neoforge-0.1.4"
+filename = "SimplyBows-neoforge-0.1.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/SimplyBows-neoforge-0.1.4.jar"
+hash-format = "sha256"
+hash = "d3ba2bbf470fd65371bc6167db6916fb8ef7292a323dedcb1be7405ddbf792fc"

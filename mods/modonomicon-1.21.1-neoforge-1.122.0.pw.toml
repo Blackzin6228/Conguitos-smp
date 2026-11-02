@@ -1,0 +1,8 @@
+name = "modonomicon-1.21.1-neoforge-1.122.0"
+filename = "modonomicon-1.21.1-neoforge-1.122.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/modonomicon-1.21.1-neoforge-1.122.0.jar"
+hash-format = "sha256"
+hash = "3204f06b8826f3304a02d25a58dac653475fa5539b27344958a7bd3fb6e102da"

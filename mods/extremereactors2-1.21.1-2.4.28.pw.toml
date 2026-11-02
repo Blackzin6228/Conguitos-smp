@@ -1,0 +1,8 @@
+name = "ExtremeReactors2-1.21.1-2.4.28"
+filename = "ExtremeReactors2-1.21.1-2.4.28.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/ExtremeReactors2-1.21.1-2.4.28.jar"
+hash-format = "sha256"
+hash = "74fdfdfc91c3c8e5a439d411e6f081d12193635fffe2c55142f2f28f75b9d621"

@@ -1,0 +1,8 @@
+name = "Ad-Astra-Giselle-Addon-neoforge-1.21.1-8.6"
+filename = "Ad-Astra-Giselle-Addon-neoforge-1.21.1-8.6.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/Ad-Astra-Giselle-Addon-neoforge-1.21.1-8.6.jar"
+hash-format = "sha256"
+hash = "87e88f0ea678214714a5f2f17e616761667a38e89070124a2f7635d5c618d763"

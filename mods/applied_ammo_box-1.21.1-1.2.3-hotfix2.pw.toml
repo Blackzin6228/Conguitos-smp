@@ -1,0 +1,8 @@
+name = "applied_ammo_box-1.21.1-1.2.3-hotfix2"
+filename = "applied_ammo_box-1.21.1-1.2.3-hotfix2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/applied_ammo_box-1.21.1-1.2.3-hotfix2.jar"
+hash-format = "sha256"
+hash = "25a5a76c3ee76d422d958640c4f2f6571dd993f44ea8c2b4714f2e7a96903143"

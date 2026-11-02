@@ -1,0 +1,8 @@
+name = "apothic_cataclysm-1.2.0"
+filename = "apothic_cataclysm-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/apothic_cataclysm-1.2.0.jar"
+hash-format = "sha256"
+hash = "cc48825f84e88db0ecbd5b5e8ddda847dd6f0fc1b98f0b3b33bcff3aa916e873"

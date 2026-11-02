@@ -1,0 +1,8 @@
+name = "spells_gone_wrong-1.21.1-2.0.1"
+filename = "spells_gone_wrong-1.21.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/spells_gone_wrong-1.21.1-2.0.1.jar"
+hash-format = "sha256"
+hash = "dd339c173bf52a0ef2ef471c5f1dea7d7bbe23b1cd01b6fad5b9394ce64b3427"

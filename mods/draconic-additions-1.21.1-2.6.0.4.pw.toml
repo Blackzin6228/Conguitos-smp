@@ -1,0 +1,8 @@
+name = "Draconic-Additions-1.21.1-2.6.0.4"
+filename = "Draconic-Additions-1.21.1-2.6.0.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/Draconic-Additions-1.21.1-2.6.0.4.jar"
+hash-format = "sha256"
+hash = "e803fa61de434cd8fe65601e7fd9db77ad18e93ad8f275eb4edfdc548fc5e9ea"

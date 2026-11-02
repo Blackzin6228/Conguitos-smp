@@ -1,0 +1,8 @@
+name = "vampirism_integrations-1.21.1-1.10.2"
+filename = "vampirism_integrations-1.21.1-1.10.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/vampirism_integrations-1.21.1-1.10.2.jar"
+hash-format = "sha256"
+hash = "a0694186c5c0bb56084e90452adc16f18a8f735029a76510a91d8f5967848706"

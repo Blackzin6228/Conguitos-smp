@@ -1,0 +1,8 @@
+name = "watervision-NF-mc1.21.1-v0.1.0-alpha"
+filename = "watervision-NF-mc1.21.1-v0.1.0-alpha.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/watervision-NF-mc1.21.1-v0.1.0-alpha.jar"
+hash-format = "sha256"
+hash = "3568da15d2687137b59aa2361c8fa0259d2a4774978fb3658c9c2cce9923a2d2"

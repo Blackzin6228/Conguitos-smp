@@ -1,0 +1,8 @@
+name = "Modern-Industrialization-2.5.11"
+filename = "Modern-Industrialization-2.5.11.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/Modern-Industrialization-2.5.11.jar"
+hash-format = "sha256"
+hash = "492c6cd8cc3f69fff067f535bc53d0b59f0e9316b325305486e9ec61af813027"

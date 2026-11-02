@@ -1,0 +1,8 @@
+name = "silent-lib-1.21.1-neoforge-10.6.0"
+filename = "silent-lib-1.21.1-neoforge-10.6.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/silent-lib-1.21.1-neoforge-10.6.0.jar"
+hash-format = "sha256"
+hash = "e5676f940802af3b7f2c393dc6c74d6c68d657efca4135478c5b54ced06950d1"

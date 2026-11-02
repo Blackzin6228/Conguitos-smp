@@ -1,0 +1,8 @@
+name = "sbw-optimized-neoforge-1.21.1-1.0.0"
+filename = "sbw-optimized-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/sbw-optimized-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha256"
+hash = "211ba1fdb6b0ffdbbcae6fe634fb63c65816550c33724a2a24f130ea5ac2e2fd"

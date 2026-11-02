@@ -1,0 +1,8 @@
+name = "vampiricageing-1.21-1.4.21"
+filename = "vampiricageing-1.21-1.4.21.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/vampiricageing-1.21-1.4.21.jar"
+hash-format = "sha256"
+hash = "1c44732a52f42b135864a15eb5dad3ca497826b7efa4274d3beab7c92b71b996"

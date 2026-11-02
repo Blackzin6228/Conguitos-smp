@@ -1,0 +1,8 @@
+name = "puzzleslib-v21.1.66-mc1.21.1+neoforge"
+filename = "puzzleslib-v21.1.66-mc1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/puzzleslib-v21.1.66-mc1.21.1%2Bneoforge.jar"
+hash-format = "sha256"
+hash = "cb02de7e1d4a133746ec7b43a64eddc2cb621122cdc49e134a15272f456c31f2"

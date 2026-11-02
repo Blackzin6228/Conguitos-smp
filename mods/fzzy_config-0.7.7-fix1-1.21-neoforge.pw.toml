@@ -1,0 +1,8 @@
+name = "fzzy_config-0.7.7+fix1+1.21+neoforge"
+filename = "fzzy_config-0.7.7+fix1+1.21+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/fzzy_config-0.7.7%2Bfix1%2B1.21%2Bneoforge.jar"
+hash-format = "sha256"
+hash = "414782aba00502349da192c1affcd4cbaf653119ec26605453f1b0690b3f8cc5"

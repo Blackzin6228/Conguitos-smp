@@ -1,0 +1,8 @@
+name = "JustEnoughResources-NeoForge-1.21.1-1.6.0.57"
+filename = "JustEnoughResources-NeoForge-1.21.1-1.6.0.57.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/JustEnoughResources-NeoForge-1.21.1-1.6.0.57.jar"
+hash-format = "sha256"
+hash = "5c905e20206ac94624aee732da19ea9816de0c3f4961a2bc5c2167f04cb15908"

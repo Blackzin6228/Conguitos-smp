@@ -1,0 +1,8 @@
+name = "gtbcs_spell_lib-2.2.0-1.21.1"
+filename = "gtbcs_spell_lib-2.2.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/gtbcs_spell_lib-2.2.0-1.21.1.jar"
+hash-format = "sha256"
+hash = "a2a020b85abe9e5ad2ce9e760db57e9c79aa57cf6dae56bbfd4eb0ed5d5928f9"

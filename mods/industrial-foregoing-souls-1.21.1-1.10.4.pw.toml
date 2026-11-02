@@ -1,0 +1,8 @@
+name = "industrial-foregoing-souls-1.21.1-1.10.4"
+filename = "industrial-foregoing-souls-1.21.1-1.10.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/industrial-foregoing-souls-1.21.1-1.10.4.jar"
+hash-format = "sha256"
+hash = "57955ba464903be4c61de4b44018d6fd2f482ba0eadf9fed85383ae8e05d5ab0"

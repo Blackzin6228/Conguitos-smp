@@ -1,0 +1,8 @@
+name = "darktimer-neoforge-1.21-1.2.3"
+filename = "darktimer-neoforge-1.21-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/darktimer-neoforge-1.21-1.2.3.jar"
+hash-format = "sha256"
+hash = "3011041a928f6127fc0667c7667adfca97d332fec980c4e720356e22fe53eda4"

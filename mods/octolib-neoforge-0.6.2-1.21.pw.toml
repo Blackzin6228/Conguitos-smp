@@ -1,0 +1,8 @@
+name = "OctoLib-NEOFORGE-0.6.2+1.21"
+filename = "OctoLib-NEOFORGE-0.6.2+1.21.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/OctoLib-NEOFORGE-0.6.2%2B1.21.jar"
+hash-format = "sha256"
+hash = "92ba07d9d9e55a65421f3c3f203c72fe5149cb024d5277267e81d812e11a7f38"

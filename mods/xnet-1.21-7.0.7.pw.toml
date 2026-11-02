@@ -1,0 +1,8 @@
+name = "xnet-1.21-7.0.7"
+filename = "xnet-1.21-7.0.7.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/xnet-1.21-7.0.7.jar"
+hash-format = "sha256"
+hash = "0f393a4bff91a90e0665ec6d66ff649e45f9c33311dc038e4a5df0b154ea9d80"

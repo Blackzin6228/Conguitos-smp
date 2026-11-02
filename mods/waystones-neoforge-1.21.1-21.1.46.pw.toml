@@ -1,0 +1,8 @@
+name = "waystones-neoforge-1.21.1-21.1.46"
+filename = "waystones-neoforge-1.21.1-21.1.46.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/waystones-neoforge-1.21.1-21.1.46.jar"
+hash-format = "sha256"
+hash = "ca76a4457160e8353b1f013a21ab377b264141f466d84ec8952a123058b8af78"

@@ -1,0 +1,8 @@
+name = "flerovium-neoforge-1.21.1-1.1.2-all"
+filename = "flerovium-neoforge-1.21.1-1.1.2-all.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/flerovium-neoforge-1.21.1-1.1.2-all.jar"
+hash-format = "sha256"
+hash = "2274b5c3e66cda6958b17a968ef8e6ef8710ff8a0a8bb99050fb5a167ba07928"

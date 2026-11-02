@@ -1,0 +1,8 @@
+name = "nyfsspiders-neoforge-1.21.1-3.0.2"
+filename = "nyfsspiders-neoforge-1.21.1-3.0.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/nyfsspiders-neoforge-1.21.1-3.0.2.jar"
+hash-format = "sha256"
+hash = "b40157e986d2c3665b4df02065894e52eef1bd4d79c445607a2faadd31d69d98"

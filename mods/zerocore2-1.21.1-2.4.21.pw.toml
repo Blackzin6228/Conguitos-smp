@@ -1,0 +1,8 @@
+name = "ZeroCore2-1.21.1-2.4.21"
+filename = "ZeroCore2-1.21.1-2.4.21.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/ZeroCore2-1.21.1-2.4.21.jar"
+hash-format = "sha256"
+hash = "54ac755031b05c3a5b6ddfa22dabc45fb3775481041503dcecd75e5e86627779"

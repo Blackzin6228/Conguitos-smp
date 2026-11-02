@@ -1,0 +1,8 @@
+name = "immersive_melodies-neoforge-0.8.2-1.21.1"
+filename = "immersive_melodies-neoforge-0.8.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/immersive_melodies-neoforge-0.8.2-1.21.1.jar"
+hash-format = "sha256"
+hash = "345a54e22143ef3fa18c599a2972febe8916b5f522785dde04db688a4491792d"

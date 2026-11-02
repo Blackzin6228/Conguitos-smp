@@ -1,0 +1,8 @@
+name = "easy-villagers-neoforge-1.21.1-1.1.49"
+filename = "easy-villagers-neoforge-1.21.1-1.1.49.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/easy-villagers-neoforge-1.21.1-1.1.49.jar"
+hash-format = "sha256"
+hash = "430a4b534c27d2fbbdf6c40bc3b9887a89a59d1a8cad6301246afc66dc721715"

@@ -1,0 +1,8 @@
+name = "functionalstorage-1.21.1-1.5.8"
+filename = "functionalstorage-1.21.1-1.5.8.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/functionalstorage-1.21.1-1.5.8.jar"
+hash-format = "sha256"
+hash = "e3e7368c28a24e7de5b877988aa92cc94ca7417c8f60b7d28e7f584a94a51147"

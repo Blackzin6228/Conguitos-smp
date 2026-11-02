@@ -1,0 +1,8 @@
+name = "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124"
+filename = "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124.jar"
+hash-format = "sha256"
+hash = "a04533b015e8e4d411d571c081c3ff7b28fb42ab6dea0046a3cde3e54166befd"

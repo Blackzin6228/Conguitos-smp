@@ -1,0 +1,8 @@
+name = "worldweaver-21.0.30"
+filename = "worldweaver-21.0.30.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/worldweaver-21.0.30.jar"
+hash-format = "sha256"
+hash = "be7b790a7c1ce8d96883bb63cccb84042f360dd442472ed9a48afc71e2699dbb"

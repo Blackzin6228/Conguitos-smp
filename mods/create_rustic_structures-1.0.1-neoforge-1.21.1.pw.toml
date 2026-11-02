@@ -1,0 +1,8 @@
+name = "create_rustic_structures-1.0.1-neoforge-1.21.1"
+filename = "create_rustic_structures-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/create_rustic_structures-1.0.1-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "96fa8fb53efd33586436d3ac411615754a573fe1f0a6d4c11c8b922126fb8fc6"

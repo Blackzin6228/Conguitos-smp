@@ -1,0 +1,8 @@
+name = "Nullscape_1.21.x_v1.2.14"
+filename = "Nullscape_1.21.x_v1.2.14.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/Nullscape_1.21.x_v1.2.14.jar"
+hash-format = "sha256"
+hash = "8749c6fdda659335e50116c18e012cdf8699b3789859c82559af2c6f425c93ae"

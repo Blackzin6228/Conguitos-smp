@@ -1,0 +1,8 @@
+name = "create-central-kitchen-2.6.2b"
+filename = "create-central-kitchen-2.6.2b.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/create-central-kitchen-2.6.2b.jar"
+hash-format = "sha256"
+hash = "5b9ad4df5b53a6c2450f52dfacd58ad51d77ca5ca562547aeec7601c9f9ec192"

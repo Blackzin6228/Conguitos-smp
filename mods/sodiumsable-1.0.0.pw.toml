@@ -1,0 +1,8 @@
+name = "sodiumsable-1.0.0"
+filename = "sodiumsable-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/sodiumsable-1.0.0.jar"
+hash-format = "sha256"
+hash = "460867e66adbdd83dcb7cbc335c8ae706b5e35e1294ceaf4b088e673b16686a7"

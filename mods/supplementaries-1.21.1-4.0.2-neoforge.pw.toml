@@ -1,0 +1,8 @@
+name = "supplementaries-1.21.1-4.0.2-neoforge"
+filename = "supplementaries-1.21.1-4.0.2-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/supplementaries-1.21.1-4.0.2-neoforge.jar"
+hash-format = "sha256"
+hash = "2c2e0c98e0cc21874d8b2130bc773a2a5a6cadd854b9c8163d0e1f32e2ddffb0"

@@ -1,0 +1,8 @@
+name = "pipez-neoforge-1.21.1-1.2.31"
+filename = "pipez-neoforge-1.21.1-1.2.31.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/pipez-neoforge-1.21.1-1.2.31.jar"
+hash-format = "sha256"
+hash = "9b37e922443ea3452daeacbfba4bcf69de07692183c4ee09f1d1e82c9fc5cc5f"

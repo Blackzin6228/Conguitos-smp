@@ -1,0 +1,8 @@
+name = "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12"
+filename = "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12.jar"
+hash-format = "sha256"
+hash = "42f582333ffe61366e68a9320d3c205153f2fdc5b53ad715b01543f85828e6b0"

@@ -1,0 +1,8 @@
+name = "oritech-neoforge-1.21.1-1.2.13"
+filename = "oritech-neoforge-1.21.1-1.2.13.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/oritech-neoforge-1.21.1-1.2.13.jar"
+hash-format = "sha256"
+hash = "32600bf5b08fcf6d4a49e557f90ee45b238098170777872c8919d9fdb0a1b828"

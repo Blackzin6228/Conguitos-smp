@@ -1,0 +1,8 @@
+name = "obscure_tooltips-neoforge-1.21.1-4.2.5"
+filename = "obscure_tooltips-neoforge-1.21.1-4.2.5.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/obscure_tooltips-neoforge-1.21.1-4.2.5.jar"
+hash-format = "sha256"
+hash = "2109a6678cf89141dc88f3fed671631cc7401148f605c1cb796c2e780537e8b3"

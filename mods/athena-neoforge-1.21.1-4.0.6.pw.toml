@@ -1,0 +1,8 @@
+name = "athena-neoforge-1.21.1-4.0.6"
+filename = "athena-neoforge-1.21.1-4.0.6.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/athena-neoforge-1.21.1-4.0.6.jar"
+hash-format = "sha256"
+hash = "43699885bbce3343916d4c5c4940cf0e3f9f6f02fdeb46e8655e121b42282ec5"

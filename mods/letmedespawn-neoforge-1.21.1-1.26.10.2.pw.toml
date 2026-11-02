@@ -1,0 +1,8 @@
+name = "letmedespawn-neoforge-1.21.1-1.26.10.2"
+filename = "letmedespawn-neoforge-1.21.1-1.26.10.2.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/letmedespawn-neoforge-1.21.1-1.26.10.2.jar"
+hash-format = "sha256"
+hash = "62086f1e0dc89bb2d784fb75bf2fea37925a6cc1c24b9b3e3d686f2901183e17"

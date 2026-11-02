@@ -1,0 +1,8 @@
+name = "mekanism_weaponry-2.1.5"
+filename = "mekanism_weaponry-2.1.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/mekanism_weaponry-2.1.5.jar"
+hash-format = "sha256"
+hash = "6c6204ad7829b0a6b1873ddbd6b7843bf3fca0615823ed61305f46e66b9ebf92"

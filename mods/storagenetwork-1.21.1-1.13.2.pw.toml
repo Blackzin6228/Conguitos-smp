@@ -1,0 +1,8 @@
+name = "storagenetwork-1.21.1-1.13.2"
+filename = "storagenetwork-1.21.1-1.13.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/storagenetwork-1.21.1-1.13.2.jar"
+hash-format = "sha256"
+hash = "1b5d1fa174406d1813882d25c1f523b2eb1b52805173427ae96ebdf4be81beac"

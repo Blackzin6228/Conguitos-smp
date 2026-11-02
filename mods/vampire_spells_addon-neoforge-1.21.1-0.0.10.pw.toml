@@ -1,0 +1,8 @@
+name = "vampire_spells_addon-neoforge-1.21.1-0.0.10"
+filename = "vampire_spells_addon-neoforge-1.21.1-0.0.10.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/vampire_spells_addon-neoforge-1.21.1-0.0.10.jar"
+hash-format = "sha256"
+hash = "7fece3275e2e084d97493ed0c2679b3e46f91bb0153b685a2e1256ae6caea9b8"

@@ -1,0 +1,8 @@
+name = "MysticalAgriculture-1.21.1-8.0.29"
+filename = "MysticalAgriculture-1.21.1-8.0.29.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/MysticalAgriculture-1.21.1-8.0.29.jar"
+hash-format = "sha256"
+hash = "15c2cbde18f25d228b8da26d8c6a040f217f24cc73084b8176d3e18e7140971e"

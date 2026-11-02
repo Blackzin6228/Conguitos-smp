@@ -1,0 +1,8 @@
+name = "BetterEndCities-BetterEnd-1.21"
+filename = "BetterEndCities-BetterEnd-1.21.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/BetterEndCities-BetterEnd-1.21.jar"
+hash-format = "sha256"
+hash = "3dd1942a7d1f3516928c69184c59aed7b4b0d3f3039d6e423eb3462c0ab09277"

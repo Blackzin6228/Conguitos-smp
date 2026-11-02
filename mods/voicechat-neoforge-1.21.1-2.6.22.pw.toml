@@ -1,0 +1,8 @@
+name = "voicechat-neoforge-1.21.1-2.6.22"
+filename = "voicechat-neoforge-1.21.1-2.6.22.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/voicechat-neoforge-1.21.1-2.6.22.jar"
+hash-format = "sha256"
+hash = "63116a4d21bd57221482d971dd85822f7c723c210b60411670cdb0aa26873cac"

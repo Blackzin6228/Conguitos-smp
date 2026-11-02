@@ -1,0 +1,8 @@
+name = "Evolved Mekanism-1.21.1-1.3.0-fix2"
+filename = "Evolved Mekanism-1.21.1-1.3.0-fix2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/Evolved%20Mekanism-1.21.1-1.3.0-fix2.jar"
+hash-format = "sha256"
+hash = "075aef49005c771fbb080213031aef37bdf89bf999879f421bd6b6a0bcf8054f"

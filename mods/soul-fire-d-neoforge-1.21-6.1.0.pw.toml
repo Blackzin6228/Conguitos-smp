@@ -1,0 +1,8 @@
+name = "soul-fire-d-neoforge-1.21-6.1.0"
+filename = "soul-fire-d-neoforge-1.21-6.1.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/soul-fire-d-neoforge-1.21-6.1.0.jar"
+hash-format = "sha256"
+hash = "f4438290f1d21abfd0b7d6d7832543e176705c0624b73f8c9d441bba0efc9842"

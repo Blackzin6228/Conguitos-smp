@@ -1,0 +1,8 @@
+name = "cupboard-1.21.1-4.2"
+filename = "cupboard-1.21.1-4.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/cupboard-1.21.1-4.2.jar"
+hash-format = "sha256"
+hash = "5162922647fe07c7b9f446870915b57ddd0ae9dcf56b243611130fea30f2f77a"

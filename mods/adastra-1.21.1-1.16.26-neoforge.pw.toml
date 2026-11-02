@@ -1,0 +1,8 @@
+name = "adastra-1.21.1-1.16.26-neoforge"
+filename = "adastra-1.21.1-1.16.26-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/adastra-1.21.1-1.16.26-neoforge.jar"
+hash-format = "sha256"
+hash = "b8d1441e284db2e1e8ce5ffe739452633c90725312e476db8d8a0a4b64126856"

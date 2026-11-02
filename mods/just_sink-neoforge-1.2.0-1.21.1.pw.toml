@@ -1,0 +1,8 @@
+name = "just_sink-neoforge-1.2.0-1.21.1"
+filename = "just_sink-neoforge-1.2.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/just_sink-neoforge-1.2.0-1.21.1.jar"
+hash-format = "sha256"
+hash = "086e5f4ed6be663a8fba82782e185fcd97eb5907405e17487920c3fe81869290"

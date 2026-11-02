@@ -1,0 +1,8 @@
+name = "Botania Revived-1.21.1-1.0.3-NeoForge"
+filename = "Botania Revived-1.21.1-1.0.3-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/Botania%20Revived-1.21.1-1.0.3-NeoForge.jar"
+hash-format = "sha256"
+hash = "5d4f038e220a8981ad1af9c2d4abdd419d0b1fecc638c2333cae073fe01d05b2"

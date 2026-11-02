@@ -1,0 +1,8 @@
+name = "resourcefulconfig-neoforge-1.21-3.0.11"
+filename = "resourcefulconfig-neoforge-1.21-3.0.11.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/resourcefulconfig-neoforge-1.21-3.0.11.jar"
+hash-format = "sha256"
+hash = "25b4f3502d25c535004acd4a9420272fff01d2f1e2df352239fec93fdab005d4"

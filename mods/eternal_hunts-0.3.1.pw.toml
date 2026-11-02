@@ -1,0 +1,8 @@
+name = "eternal_hunts-0.3.1"
+filename = "eternal_hunts-0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/eternal_hunts-0.3.1.jar"
+hash-format = "sha256"
+hash = "dcc3e28c3d4d689217b1bc8a3d1e5eddc071b7837b86b3368e72f6ec11b95578"

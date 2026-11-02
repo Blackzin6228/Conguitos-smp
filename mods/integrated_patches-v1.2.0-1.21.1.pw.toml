@@ -1,0 +1,8 @@
+name = "integrated_patches v1.2.0-1.21.1"
+filename = "integrated_patches v1.2.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/integrated_patches%20v1.2.0-1.21.1.jar"
+hash-format = "sha256"
+hash = "ef4a0e61dc034f7e48606f53216b8641eb903f5694cc804f8b6ec0c645199ac3"

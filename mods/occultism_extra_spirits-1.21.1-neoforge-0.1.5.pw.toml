@@ -1,0 +1,8 @@
+name = "occultism_extra_spirits-1.21.1-neoforge-0.1.5"
+filename = "occultism_extra_spirits-1.21.1-neoforge-0.1.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/occultism_extra_spirits-1.21.1-neoforge-0.1.5.jar"
+hash-format = "sha256"
+hash = "f471a9dd55c485d3176c73cf6fac482e9eb1009e93d3b6f08298888060c2dcaa"

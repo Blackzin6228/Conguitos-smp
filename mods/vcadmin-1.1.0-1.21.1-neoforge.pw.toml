@@ -1,0 +1,8 @@
+name = "vcadmin-1.1.0+1.21.1-neoforge"
+filename = "vcadmin-1.1.0+1.21.1-neoforge.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/vcadmin-1.1.0%2B1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "93ea6429d8571691ea4356b6a226e00a4a862c965f6d34e3d0ee2b968c3b9aa1"

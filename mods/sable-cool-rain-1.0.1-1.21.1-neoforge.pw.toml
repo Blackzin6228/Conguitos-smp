@@ -1,0 +1,8 @@
+name = "sable-cool-rain-1.0.1+1.21.1+neoforge"
+filename = "sable-cool-rain-1.0.1+1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/sable-cool-rain-1.0.1%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha256"
+hash = "f177526f730bd0b6400e0217ca718857bbedfd5099ce4f08210a11da588d456b"

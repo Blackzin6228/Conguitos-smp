@@ -1,0 +1,8 @@
+name = "MekanismAdditions-1.21.1-10.7.19.85"
+filename = "MekanismAdditions-1.21.1-10.7.19.85.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/MekanismAdditions-1.21.1-10.7.19.85.jar"
+hash-format = "sha256"
+hash = "3d8a6ed67f5ccf3797ad9d5236ec4e22b74481aa9cd45636feb16f89e1d56311"

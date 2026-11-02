@@ -1,0 +1,8 @@
+name = "justzoom_neoforge_3.1.0_MC_1.21.1"
+filename = "justzoom_neoforge_3.1.0_MC_1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/justzoom_neoforge_3.1.0_MC_1.21.1.jar"
+hash-format = "sha256"
+hash = "636885577b2ec47b10abeb62d0f35d5b2267c88ed5c43ed7ea9b3955858cb314"

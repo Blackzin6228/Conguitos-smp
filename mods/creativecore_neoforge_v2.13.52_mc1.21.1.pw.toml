@@ -1,0 +1,8 @@
+name = "CreativeCore_NEOFORGE_v2.13.52_mc1.21.1"
+filename = "CreativeCore_NEOFORGE_v2.13.52_mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/CreativeCore_NEOFORGE_v2.13.52_mc1.21.1.jar"
+hash-format = "sha256"
+hash = "c24e1f6602315ab34f8f01c87760d3a4a682e6d77a6b4880b73cd7e6c80338b9"

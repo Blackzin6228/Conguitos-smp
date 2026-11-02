@@ -1,0 +1,8 @@
+name = "Placebo-1.21.1-9.9.4"
+filename = "Placebo-1.21.1-9.9.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/Placebo-1.21.1-9.9.4.jar"
+hash-format = "sha256"
+hash = "d8952c019d6e54befe37155bc9876985ec57bf73dd33872115c7a65ac6bceba0"

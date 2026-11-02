@@ -1,0 +1,8 @@
+name = "sophisticatedcore-1.21.1-1.5.19.2434"
+filename = "sophisticatedcore-1.21.1-1.5.19.2434.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/sophisticatedcore-1.21.1-1.5.19.2434.jar"
+hash-format = "sha256"
+hash = "8b6921f217df8fbbed4990d19e6ff9187bc74777974a3421a1b4396a661fe0e4"

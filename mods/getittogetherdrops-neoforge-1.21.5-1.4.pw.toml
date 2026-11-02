@@ -1,0 +1,8 @@
+name = "getittogetherdrops-neoforge-1.21.5-1.4"
+filename = "getittogetherdrops-neoforge-1.21.5-1.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/getittogetherdrops-neoforge-1.21.5-1.4.jar"
+hash-format = "sha256"
+hash = "a09466d03e3dde0c0f5c179146a8247b33a720a88979eb813c5f2aa2ad1c7a78"

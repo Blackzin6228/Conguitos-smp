@@ -1,0 +1,8 @@
+name = "colorwheel-neoforge-1.3.0+mc1.21.1"
+filename = "colorwheel-neoforge-1.3.0+mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/colorwheel-neoforge-1.3.0%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "3c7c1f91b1add47053f40a58375de492b87ce83309be378527f100cb842c07c0"

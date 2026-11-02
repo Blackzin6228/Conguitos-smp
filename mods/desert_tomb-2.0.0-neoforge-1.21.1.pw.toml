@@ -1,0 +1,8 @@
+name = "desert_tomb-2.0.0-neoforge-1.21.1"
+filename = "desert_tomb-2.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/desert_tomb-2.0.0-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "2df18728272cd3914159a2f65352c5955a2c6faa6c796dcc1665fda44c8ccd5b"

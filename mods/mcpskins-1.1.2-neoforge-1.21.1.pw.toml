@@ -1,0 +1,8 @@
+name = "mcpskins-1.1.2-neoforge-1.21.1"
+filename = "mcpskins-1.1.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/mcpskins-1.1.2-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "2f5c89cc27b44fa3332e5fa45fe3ef9f01c6dd79b0511f1cc7033563bf5a6177"

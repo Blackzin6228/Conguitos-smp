@@ -1,0 +1,8 @@
+name = "YungsApi-1.21.1-NeoForge-5.1.9"
+filename = "YungsApi-1.21.1-NeoForge-5.1.9.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/YungsApi-1.21.1-NeoForge-5.1.9.jar"
+hash-format = "sha256"
+hash = "375e0b2f988ab4f5bde182166c0f0b102377adc8f823660c24ade08b0b3cde56"

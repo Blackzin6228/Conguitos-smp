@@ -1,0 +1,8 @@
+name = "modular-routers-13.2.7+mc1.21.1"
+filename = "modular-routers-13.2.7+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/modular-routers-13.2.7%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "3bb8ff7096c87920ecda1bc9d81a3ca5df6e7830b9dcfe1836be4e205ea02049"

@@ -1,0 +1,8 @@
+name = "emotecraft-borrow-their-emote-1.0.1+1.21.1+neoforge"
+filename = "emotecraft-borrow-their-emote-1.0.1+1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/emotecraft-borrow-their-emote-1.0.1%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha256"
+hash = "58ebcf4db981835dfacfed6d76a0e42be88adca3838b96b9e30e2f25bf75ec5a"

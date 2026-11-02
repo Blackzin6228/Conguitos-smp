@@ -12,10 +12,11 @@ import json
 import os
 import re
 import sys
+from urllib.parse import quote
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
-DONO, REPO = "Blackzin6228", "conguitos-smp"
+DONO, REPO = "Blackzin6228", "Conguitos-smp"
 PASTA_JARS = "jars"      # pasta do repositório onde ficam os jars dos mods (servidos pelo raw.githubusercontent)
 MC, NEOFORGE = "1.21.1", "21.1.262"
 NOME, AUTOR = "CONGUITOS SMP", "Nikolas"
@@ -87,7 +88,7 @@ def gerar_metafiles(pasta_jars: Path):
             f"side = {toml_str(lado(jar.name))}",
             "",
             "[download]",
-            f"url = {toml_str(base + jar.name)}",
+            f"url = {toml_str(base + quote(jar.name))}",
             'hash-format = "sha256"',
             f"hash = {toml_str(sha256(jar))}",
             "",

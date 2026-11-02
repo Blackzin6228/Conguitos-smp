@@ -1,0 +1,8 @@
+name = "crittersandcompanions-neoforge-1.21.1-2.7.0"
+filename = "crittersandcompanions-neoforge-1.21.1-2.7.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/crittersandcompanions-neoforge-1.21.1-2.7.0.jar"
+hash-format = "sha256"
+hash = "bc09d4e9996fae2c17092b3f58e2cc6ffe49d176e7cdf06495eeb4ac9a85b5dd"

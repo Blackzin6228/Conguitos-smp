@@ -1,0 +1,8 @@
+name = "soulplied_energistics-1.0.3"
+filename = "soulplied_energistics-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/soulplied_energistics-1.0.3.jar"
+hash-format = "sha256"
+hash = "a28a2a088141817ed18a034a07dc36a9659119d8a2fba0ea7d7ee6bdfe4a8699"

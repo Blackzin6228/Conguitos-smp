@@ -1,0 +1,8 @@
+name = "jinxedlib-neoforge-1.21.1-1.0.4"
+filename = "jinxedlib-neoforge-1.21.1-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/jinxedlib-neoforge-1.21.1-1.0.4.jar"
+hash-format = "sha256"
+hash = "6c49a583e23c50cae21cd3530c96329c7b3c0c180f8aaa7047e0b5770cc70630"

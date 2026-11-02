@@ -1,0 +1,8 @@
+name = "mekagenjei-1.2"
+filename = "mekagenjei-1.2.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/mekagenjei-1.2.jar"
+hash-format = "sha256"
+hash = "ac5e5a3600e1d45c5326fc28cbe71f62c2cdaaa2402886e238f2c462119a56c7"

@@ -1,0 +1,8 @@
+name = "azurelib-neo-1.21.1-3.2.4"
+filename = "azurelib-neo-1.21.1-3.2.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/azurelib-neo-1.21.1-3.2.4.jar"
+hash-format = "sha256"
+hash = "b1cc9564fa63144216744b9939054e251ec554cd4ca775e8cc8c5e0c449c103c"

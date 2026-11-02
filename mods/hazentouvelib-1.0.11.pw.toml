@@ -1,0 +1,8 @@
+name = "hazentouvelib-1.0.11"
+filename = "hazentouvelib-1.0.11.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/hazentouvelib-1.0.11.jar"
+hash-format = "sha256"
+hash = "21e25bbcf78133fb9451339f3164eeeb55f2b98df78cdd42ce6a365da06a1325"

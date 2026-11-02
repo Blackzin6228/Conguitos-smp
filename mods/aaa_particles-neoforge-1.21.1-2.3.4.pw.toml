@@ -1,0 +1,8 @@
+name = "aaa_particles-neoforge-1.21.1-2.3.4"
+filename = "aaa_particles-neoforge-1.21.1-2.3.4.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/aaa_particles-neoforge-1.21.1-2.3.4.jar"
+hash-format = "sha256"
+hash = "bc07466a3265b534a9fdd5319d95f87003db0916c592eab81de6c3e357224c1a"

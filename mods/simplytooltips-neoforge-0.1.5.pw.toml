@@ -1,0 +1,8 @@
+name = "SimplyTooltips-neoforge-0.1.5"
+filename = "SimplyTooltips-neoforge-0.1.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/SimplyTooltips-neoforge-0.1.5.jar"
+hash-format = "sha256"
+hash = "fdac367da1c5243ac5225f00f831b786817452ee9fa6a7f4acd99ec819b0f2b7"

@@ -1,0 +1,8 @@
+name = "sophisticatedstorage-1.21.1-1.6.10.2206"
+filename = "sophisticatedstorage-1.21.1-1.6.10.2206.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/sophisticatedstorage-1.21.1-1.6.10.2206.jar"
+hash-format = "sha256"
+hash = "a0d065fe52ee52b0575e6f9ac67e8543abbc86e1dfa25e6847d538f40858b11d"

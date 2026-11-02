@@ -1,0 +1,8 @@
+name = "immersive_armors-1.7.6+1.21.1-neoforge"
+filename = "immersive_armors-1.7.6+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/immersive_armors-1.7.6%2B1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "e9b6f1975ca5e1d92d73f60c5a86fe2d45d6be43497e3c1d013afe495e298ccc"

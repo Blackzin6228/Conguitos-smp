@@ -1,0 +1,8 @@
+name = "wunderlib-21.0.11"
+filename = "wunderlib-21.0.11.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/wunderlib-21.0.11.jar"
+hash-format = "sha256"
+hash = "2f39302b8da949195ffc57d07d0668f867c8ba9f2874bb6eef0bdd1e9fed9ba4"

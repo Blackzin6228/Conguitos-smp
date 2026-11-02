@@ -1,0 +1,8 @@
+name = "bancocentral-2.0.0"
+filename = "bancocentral-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/bancocentral-2.0.0.jar"
+hash-format = "sha256"
+hash = "82b9fbaa3f20dbd9a6e5c2a228a07565c13043d1dfc670def69a759d3f4481dc"

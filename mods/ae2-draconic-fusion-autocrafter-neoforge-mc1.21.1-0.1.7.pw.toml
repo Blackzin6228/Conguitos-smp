@@ -1,0 +1,8 @@
+name = "ae2-draconic-fusion-autocrafter-neoforge-mc1.21.1-0.1.7"
+filename = "ae2-draconic-fusion-autocrafter-neoforge-mc1.21.1-0.1.7.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/ae2-draconic-fusion-autocrafter-neoforge-mc1.21.1-0.1.7.jar"
+hash-format = "sha256"
+hash = "d7ea5db59c84afff2c877e8bcaf8505691fa9e088e38d6e837750df0ebd15182"

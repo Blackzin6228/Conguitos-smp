@@ -1,0 +1,8 @@
+name = "tempadtomapx-0.1.1+neoforge-1.21.1"
+filename = "tempadtomapx-0.1.1+neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/tempadtomapx-0.1.1%2Bneoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "1985ac4ee22e7f8c3878669277a0d379f827c4a23c4095cd138578016c2ee3bd"

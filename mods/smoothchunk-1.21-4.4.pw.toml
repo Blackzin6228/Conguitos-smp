@@ -1,0 +1,8 @@
+name = "smoothchunk-1.21-4.4"
+filename = "smoothchunk-1.21-4.4.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/smoothchunk-1.21-4.4.jar"
+hash-format = "sha256"
+hash = "b12cb6c8de15e65f749ec6421786fe62e2125b9b55b3c1f707d0400493c0fbad"

@@ -1,0 +1,8 @@
+name = "ftb-library-neoforge-2101.1.39"
+filename = "ftb-library-neoforge-2101.1.39.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/ftb-library-neoforge-2101.1.39.jar"
+hash-format = "sha256"
+hash = "ca64bd1b5f335406900f74eeafacea5a3580a3933d61de6b6600a64eb12a9a95"

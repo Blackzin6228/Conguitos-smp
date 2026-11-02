@@ -1,0 +1,8 @@
+name = "integrated_simply_swords-1.4.0+1.21.1-neoforge"
+filename = "integrated_simply_swords-1.4.0+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/integrated_simply_swords-1.4.0%2B1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "6cc6ae2c3d18a1970e1d29cf6f0c4cd700619d32caa787f725cb22cd552e3da6"

@@ -1,0 +1,8 @@
+name = "cataclysmfortresses-1.21.1-NeoForge"
+filename = "cataclysmfortresses-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/cataclysmfortresses-1.21.1-NeoForge.jar"
+hash-format = "sha256"
+hash = "a6f4812a9735a55cb1bc2e669a1fa6dc016a162434ada347514aea9a4e39d840"

@@ -1,0 +1,8 @@
+name = "mekmm-1.21.1-1.4.1"
+filename = "mekmm-1.21.1-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/mekmm-1.21.1-1.4.1.jar"
+hash-format = "sha256"
+hash = "58d4eb5630c179f54cea6c91180eb4c1ba27f70ef2417d73d78be76061791219"

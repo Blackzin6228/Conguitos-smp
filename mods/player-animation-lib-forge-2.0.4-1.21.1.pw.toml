@@ -1,0 +1,8 @@
+name = "player-animation-lib-forge-2.0.4+1.21.1"
+filename = "player-animation-lib-forge-2.0.4+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/player-animation-lib-forge-2.0.4%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"

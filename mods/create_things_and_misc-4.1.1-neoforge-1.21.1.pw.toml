@@ -1,0 +1,8 @@
+name = "create_things_and_misc-4.1.1-neoforge-1.21.1"
+filename = "create_things_and_misc-4.1.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/create_things_and_misc-4.1.1-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "37cfe32ca602a37bd21307e6f456a35788c30315722f14e07326ff555d188fc0"

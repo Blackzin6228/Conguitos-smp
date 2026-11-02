@@ -1,0 +1,8 @@
+name = "taczaddon-1.1.8.3-neoforge-1.21.1"
+filename = "taczaddon-1.1.8.3-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/taczaddon-1.1.8.3-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "8492eae7d90955c6a9aa8d02dbe16d84177c525ca06788d084792afbba384891"

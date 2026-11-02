@@ -1,0 +1,8 @@
+name = "occultism-1.21.1-neoforge-1.224.6"
+filename = "occultism-1.21.1-neoforge-1.224.6.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/occultism-1.21.1-neoforge-1.224.6.jar"
+hash-format = "sha256"
+hash = "fd9d723ee6f074d655c339bbedde0e1e6e1c37db59fd86699e7ff11bb8f51961"

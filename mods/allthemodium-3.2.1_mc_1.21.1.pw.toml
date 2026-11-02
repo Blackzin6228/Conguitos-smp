@@ -1,0 +1,8 @@
+name = "allthemodium-3.2.1_mc_1.21.1"
+filename = "allthemodium-3.2.1_mc_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/allthemodium-3.2.1_mc_1.21.1.jar"
+hash-format = "sha256"
+hash = "c18a46415b3740b5c7625656c3e8f67d4b2019022fe113f7f5a2768a3e63df0a"

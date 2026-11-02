@@ -1,0 +1,8 @@
+name = "botanypotsmystical-neoforge-1.21.1-21.1.12"
+filename = "botanypotsmystical-neoforge-1.21.1-21.1.12.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/botanypotsmystical-neoforge-1.21.1-21.1.12.jar"
+hash-format = "sha256"
+hash = "f7c67bb0fce976b8dfdd1c07e499fbdc472e1e97305ca7ae5e57ccba780f293e"

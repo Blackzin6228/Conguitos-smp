@@ -1,0 +1,8 @@
+name = "bclib-21.0.28"
+filename = "bclib-21.0.28.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/bclib-21.0.28.jar"
+hash-format = "sha256"
+hash = "e8d5b8ce29d51eb0845c19fd2172d99237841bd20bc4bc25b7cbf4965a5ad506"

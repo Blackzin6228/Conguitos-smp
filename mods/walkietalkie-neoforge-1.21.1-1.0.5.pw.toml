@@ -1,0 +1,8 @@
+name = "walkietalkie-neoforge-1.21.1-1.0.5"
+filename = "walkietalkie-neoforge-1.21.1-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/walkietalkie-neoforge-1.21.1-1.0.5.jar"
+hash-format = "sha256"
+hash = "aa995ed7367db66053e354c9eede015913506dbbc93ac9796aac484d3d1a1b29"

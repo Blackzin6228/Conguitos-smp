@@ -1,0 +1,8 @@
+name = "BetterEnd-21.0.39"
+filename = "BetterEnd-21.0.39.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/BetterEnd-21.0.39.jar"
+hash-format = "sha256"
+hash = "92ff67030ef18d63f97d67ad07ce1f2d3d7c98adc66bcc901ba4521edffd06bf"

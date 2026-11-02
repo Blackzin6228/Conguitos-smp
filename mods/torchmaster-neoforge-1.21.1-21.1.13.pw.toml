@@ -1,0 +1,8 @@
+name = "torchmaster-neoforge-1.21.1-21.1.13"
+filename = "torchmaster-neoforge-1.21.1-21.1.13.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/torchmaster-neoforge-1.21.1-21.1.13.jar"
+hash-format = "sha256"
+hash = "661afe53647ef687d3d970e5df7b53107d94d080671e25317f67cb02b4349cba"

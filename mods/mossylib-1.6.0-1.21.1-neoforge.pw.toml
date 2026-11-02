@@ -1,0 +1,8 @@
+name = "MossyLib-1.6.0+1.21.1+neoforge"
+filename = "MossyLib-1.6.0+1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/MossyLib-1.6.0%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha256"
+hash = "7d19659babdb11979819b9e247587939dfe314cb9b837b201e5bd0e6cc6ca242"

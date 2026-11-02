@@ -1,0 +1,8 @@
+name = "ExtendedAE-1.21-2.2.42-neoforge"
+filename = "ExtendedAE-1.21-2.2.42-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/ExtendedAE-1.21-2.2.42-neoforge.jar"
+hash-format = "sha256"
+hash = "a15225108aecadeace640af3447b7ce13d1097dc1547dd52da64cd525101903d"

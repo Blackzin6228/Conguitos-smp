@@ -1,0 +1,8 @@
+name = "JustEnoughProfessions-neoforge-1.21.1-4.0.5"
+filename = "JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar"
+hash-format = "sha256"
+hash = "b34d6bb434d507874a6ebe49d40169c26f7cad8f51c9ffea615eedb153746696"

@@ -1,0 +1,8 @@
+name = "forbidden_arcanus-1.21.1-2.6.2"
+filename = "forbidden_arcanus-1.21.1-2.6.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/forbidden_arcanus-1.21.1-2.6.2.jar"
+hash-format = "sha256"
+hash = "b6a37ddceb2d1a4260f2463983c4c24f0835244de4bdcb040027dca89d70772d"

@@ -1,0 +1,8 @@
+name = "justtieredgens-1.4-21.1"
+filename = "justtieredgens-1.4-21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/justtieredgens-1.4-21.1.jar"
+hash-format = "sha256"
+hash = "1a43963875198a5cadded9da12ba4c7f8da88024472d2099594b38f32e84d237"

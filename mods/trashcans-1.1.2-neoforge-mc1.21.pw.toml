@@ -1,0 +1,8 @@
+name = "trashcans-1.1.2-neoforge-mc1.21"
+filename = "trashcans-1.1.2-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/trashcans-1.1.2-neoforge-mc1.21.jar"
+hash-format = "sha256"
+hash = "7759029b3d169cc0ed333ca771259a127db62848cc10356b9f4caaf385ba7464"

@@ -1,0 +1,8 @@
+name = "reliquified-lenders-cataclysm-new-relics-fix-1.0.3"
+filename = "reliquified-lenders-cataclysm-new-relics-fix-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/reliquified-lenders-cataclysm-new-relics-fix-1.0.3.jar"
+hash-format = "sha256"
+hash = "7f439bb0ed0f7f3a4dd2a1bad63bc4d2a9e8c479c288996d9c0f6dca46171273"

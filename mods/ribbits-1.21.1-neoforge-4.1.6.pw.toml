@@ -1,0 +1,8 @@
+name = "Ribbits-1.21.1-NeoForge-4.1.6"
+filename = "Ribbits-1.21.1-NeoForge-4.1.6.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/Ribbits-1.21.1-NeoForge-4.1.6.jar"
+hash-format = "sha256"
+hash = "794223f5a91b8b80a962754b5180ec3e2472db6941e9b6c1cdd49324df628389"

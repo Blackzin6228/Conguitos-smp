@@ -1,0 +1,8 @@
+name = "Create-Structures-Arise-1.21.1-NeoForge-176.49.50"
+filename = "Create-Structures-Arise-1.21.1-NeoForge-176.49.50.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/Create-Structures-Arise-1.21.1-NeoForge-176.49.50.jar"
+hash-format = "sha256"
+hash = "83b9f671fa9864883f83c19a3972bb5d6449fde2cae8a5d7ceeced2dd52a2947"

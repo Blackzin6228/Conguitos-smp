@@ -1,0 +1,8 @@
+name = "mifa-neoforge-1.21.x-2.1.0"
+filename = "mifa-neoforge-1.21.x-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/mifa-neoforge-1.21.x-2.1.0.jar"
+hash-format = "sha256"
+hash = "dab09f72c4df39efc5d7f8949e4ab02b7d5f74242ee17b8c26fb172c2761d49f"

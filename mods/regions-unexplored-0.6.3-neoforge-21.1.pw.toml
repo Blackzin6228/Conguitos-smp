@@ -1,0 +1,8 @@
+name = "regions-unexplored-0.6.3-neoforge-21.1"
+filename = "regions-unexplored-0.6.3-neoforge-21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/regions-unexplored-0.6.3-neoforge-21.1.jar"
+hash-format = "sha256"
+hash = "e7f2edd7bab869c2e566b1b251ea54c6b95834205276bf3a302859d72d9d0c9b"

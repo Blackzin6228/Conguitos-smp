@@ -1,0 +1,8 @@
+name = "createbetterfps-1.21.1-1.1.5"
+filename = "createbetterfps-1.21.1-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/createbetterfps-1.21.1-1.1.5.jar"
+hash-format = "sha256"
+hash = "13fff8caa3fd6de652d12f8a989180c502bc11009e2a16bb0f89bb47fa57bac3"

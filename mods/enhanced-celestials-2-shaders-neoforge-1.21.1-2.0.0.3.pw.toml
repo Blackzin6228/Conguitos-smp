@@ -1,0 +1,8 @@
+name = "Enhanced-Celestials-2-Shaders-NeoForge-1.21.1-2.0.0.3"
+filename = "Enhanced-Celestials-2-Shaders-NeoForge-1.21.1-2.0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/Enhanced-Celestials-2-Shaders-NeoForge-1.21.1-2.0.0.3.jar"
+hash-format = "sha256"
+hash = "368ba7d3e80ea94cda6a10b1fb49b4054708e05f4d65a3e637a5a4125f5c56d8"

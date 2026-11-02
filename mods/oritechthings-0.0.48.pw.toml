@@ -1,0 +1,8 @@
+name = "oritechthings-0.0.48"
+filename = "oritechthings-0.0.48.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/oritechthings-0.0.48.jar"
+hash-format = "sha256"
+hash = "c81c7fd7074da2a76aec21fbad3f36c1a6c94cb76c2e4c213a2bc7f8717c2aaf"

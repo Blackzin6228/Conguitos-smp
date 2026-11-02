@@ -1,0 +1,8 @@
+name = "[1.21.1] SecurityCraft v1.10.2.1"
+filename = "[1.21.1] SecurityCraft v1.10.2.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/%5B1.21.1%5D%20SecurityCraft%20v1.10.2.1.jar"
+hash-format = "sha256"
+hash = "75ac9e73c60caf58df7069f167dbacc00a640e1418207dff654f56a5fdb5f229"

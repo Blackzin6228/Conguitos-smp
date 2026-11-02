@@ -1,0 +1,8 @@
+name = "BadOptimizations-2.4.1-1.21.1"
+filename = "BadOptimizations-2.4.1-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/BadOptimizations-2.4.1-1.21.1.jar"
+hash-format = "sha256"
+hash = "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba"

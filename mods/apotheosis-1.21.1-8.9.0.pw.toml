@@ -1,0 +1,8 @@
+name = "Apotheosis-1.21.1-8.9.0"
+filename = "Apotheosis-1.21.1-8.9.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/Apotheosis-1.21.1-8.9.0.jar"
+hash-format = "sha256"
+hash = "23a8b4a21d0d8744f097c77c8a96fcba14c4b95f3b1bb542412f40dab272872e"

@@ -1,0 +1,8 @@
+name = "ApothicEnchanting-1.21.1-1.6.4"
+filename = "ApothicEnchanting-1.21.1-1.6.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/ApothicEnchanting-1.21.1-1.6.4.jar"
+hash-format = "sha256"
+hash = "aff9837f45c1c981d47a9e60b780c37a151ef881937faf5f72092895104c8bbb"

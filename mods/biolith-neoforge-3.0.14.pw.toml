@@ -1,0 +1,8 @@
+name = "biolith-neoforge-3.0.14"
+filename = "biolith-neoforge-3.0.14.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/biolith-neoforge-3.0.14.jar"
+hash-format = "sha256"
+hash = "ded9169efb903198046cf44cf91a290ec836ed83a28e29179087eb860e0e6ce9"

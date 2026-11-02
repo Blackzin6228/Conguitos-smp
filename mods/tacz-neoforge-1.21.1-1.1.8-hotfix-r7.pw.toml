@@ -1,0 +1,8 @@
+name = "tacz-neoforge-1.21.1-1.1.8-hotfix-r7"
+filename = "tacz-neoforge-1.21.1-1.1.8-hotfix-r7.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/tacz-neoforge-1.21.1-1.1.8-hotfix-r7.jar"
+hash-format = "sha256"
+hash = "fa3a09f15265a4065a566960a8deab315f6c601a5f9a542840b362d455dd5470"

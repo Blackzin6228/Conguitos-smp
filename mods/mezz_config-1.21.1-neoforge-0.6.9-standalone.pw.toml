@@ -1,0 +1,8 @@
+name = "mezz_config-1.21.1-neoforge-0.6.9-standalone"
+filename = "mezz_config-1.21.1-neoforge-0.6.9-standalone.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/mezz_config-1.21.1-neoforge-0.6.9-standalone.jar"
+hash-format = "sha256"
+hash = "deedd2c3cc30b142d1a50d4a82190970e33a70a86f89c9e5ba7eed8286087f9f"

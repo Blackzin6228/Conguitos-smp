@@ -1,0 +1,8 @@
+name = "gtbcs_geomancy_plus-1.1.0-1.21.1"
+filename = "gtbcs_geomancy_plus-1.1.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/gtbcs_geomancy_plus-1.1.0-1.21.1.jar"
+hash-format = "sha256"
+hash = "b645cf8852b3453f2d7ccc10cd4b4f897edcc6f857f912042dc9f4d96c8e8bf7"

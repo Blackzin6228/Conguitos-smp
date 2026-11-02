@@ -1,0 +1,8 @@
+name = "igleelib-1.21.1-1.2.7"
+filename = "igleelib-1.21.1-1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/igleelib-1.21.1-1.2.7.jar"
+hash-format = "sha256"
+hash = "d2e2d3773adcab56e91d3888cfb10b0591dc794b95cf4fd115e7da4a75359578"

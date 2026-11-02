@@ -1,0 +1,8 @@
+name = "lithostitched-1.8.1-neoforge-21.1"
+filename = "lithostitched-1.8.1-neoforge-21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/lithostitched-1.8.1-neoforge-21.1.jar"
+hash-format = "sha256"
+hash = "e0da669fa5facc61a09b9b7bae21b322993de1fcd1eb05787adffb7309598cca"

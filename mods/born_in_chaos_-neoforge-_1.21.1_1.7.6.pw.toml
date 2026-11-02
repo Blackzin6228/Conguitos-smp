@@ -1,0 +1,8 @@
+name = "born_in_chaos_[Neoforge]_1.21.1_1.7.6"
+filename = "born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/born_in_chaos_%5BNeoforge%5D_1.21.1_1.7.6.jar"
+hash-format = "sha256"
+hash = "a0271a24db8622434d9573c5e789d451a05c9211173885049284e1911e2499c7"

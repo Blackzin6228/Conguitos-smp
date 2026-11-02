@@ -1,0 +1,8 @@
+name = "awcapi-neoforge-1.21.1-1.0.3"
+filename = "awcapi-neoforge-1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/awcapi-neoforge-1.21.1-1.0.3.jar"
+hash-format = "sha256"
+hash = "e46101fa7dc1388219670d5cc991ab529f966be8c9729bf963f536e9beb90ff3"

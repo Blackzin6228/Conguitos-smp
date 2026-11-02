@@ -1,0 +1,8 @@
+name = "morerelics-1.7.7-1.21.1"
+filename = "morerelics-1.7.7-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/morerelics-1.7.7-1.21.1.jar"
+hash-format = "sha256"
+hash = "f6129aece9eeb61b8daecb85ac53e372191c6b77ba8a4038b7128c92c6eb7322"

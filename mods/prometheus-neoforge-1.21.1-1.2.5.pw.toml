@@ -1,0 +1,8 @@
+name = "prometheus-neoforge-1.21.1-1.2.5"
+filename = "prometheus-neoforge-1.21.1-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/prometheus-neoforge-1.21.1-1.2.5.jar"
+hash-format = "sha256"
+hash = "5b1c1937500339827b62201f420025985677817e0277f7b80fb9ad2407a351b4"

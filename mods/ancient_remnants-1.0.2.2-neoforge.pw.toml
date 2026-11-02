@@ -1,0 +1,8 @@
+name = "ancient_remnants-1.0.2.2-neoforge"
+filename = "ancient_remnants-1.0.2.2-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/ancient_remnants-1.0.2.2-neoforge.jar"
+hash-format = "sha256"
+hash = "17a59d836f5d361141153dad79b045fa1a05b5b7b6bdd6d8d018af427f2cef10"

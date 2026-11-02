@@ -1,0 +1,8 @@
+name = "CreateDragonsPlus-1.11.9"
+filename = "CreateDragonsPlus-1.11.9.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/CreateDragonsPlus-1.11.9.jar"
+hash-format = "sha256"
+hash = "37f05a6775bbe811fe8c2833fa6289a1c704d0b25bdd5f239d343a5c6f62ed8a"

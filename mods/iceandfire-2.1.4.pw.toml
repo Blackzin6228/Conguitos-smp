@@ -1,0 +1,8 @@
+name = "iceandfire-2.1.4"
+filename = "iceandfire-2.1.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/iceandfire-2.1.4.jar"
+hash-format = "sha256"
+hash = "c1fa9878d4a0f81fe6b2db69184958f6a802f8bc7c1cd34fec2b0dc03222ec0b"

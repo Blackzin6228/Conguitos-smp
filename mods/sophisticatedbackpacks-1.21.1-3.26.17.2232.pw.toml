@@ -1,0 +1,8 @@
+name = "sophisticatedbackpacks-1.21.1-3.26.17.2232"
+filename = "sophisticatedbackpacks-1.21.1-3.26.17.2232.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/sophisticatedbackpacks-1.21.1-3.26.17.2232.jar"
+hash-format = "sha256"
+hash = "db202d67b63f7d14868ca3abe2387d4cc0b66eefdc66eb91ad4dbc388c249b24"

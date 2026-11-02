@@ -1,0 +1,8 @@
+name = "Cca-2.3"
+filename = "Cca-2.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/Cca-2.3.jar"
+hash-format = "sha256"
+hash = "705fd49452ea2eae5776e07441e2c196b1c9aa60733d613d2b25dd61f0c8b0f7"

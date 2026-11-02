@@ -1,0 +1,8 @@
+name = "create_mekanism_compat-0.1.21"
+filename = "create_mekanism_compat-0.1.21.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/create_mekanism_compat-0.1.21.jar"
+hash-format = "sha256"
+hash = "3056a3869e38635accbc7a009dedaffbdb9282312a5e9a8a850397f64f397073"

@@ -1,0 +1,8 @@
+name = "tiab-neoforge-6.5.4"
+filename = "tiab-neoforge-6.5.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/tiab-neoforge-6.5.4.jar"
+hash-format = "sha256"
+hash = "0beb4ff1d81facfe9039e8d657a75836d1e8c13c137c90b491cc07e763f26325"

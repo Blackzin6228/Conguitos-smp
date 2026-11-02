@@ -1,0 +1,8 @@
+name = "gtbcs_cataclysmic_uis-1.0.3+1.21.1"
+filename = "gtbcs_cataclysmic_uis-1.0.3+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/gtbcs_cataclysmic_uis-1.0.3%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "a1eed9ec865423b5715afb344fc3bd0c4fc511349a3aab47045c3fcda1b923f3"

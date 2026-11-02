@@ -1,0 +1,8 @@
+name = "irons_jewelry-1.21.1-2.0.2"
+filename = "irons_jewelry-1.21.1-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/irons_jewelry-1.21.1-2.0.2.jar"
+hash-format = "sha256"
+hash = "7413dd081598337133e55dd7c42ac3adff5213bceb56f10da6cfb5b52d57958e"

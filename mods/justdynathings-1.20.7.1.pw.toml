@@ -1,0 +1,8 @@
+name = "justdynathings-1.20.7.1"
+filename = "justdynathings-1.20.7.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/justdynathings-1.20.7.1.jar"
+hash-format = "sha256"
+hash = "66bd8ca7223aa34b700cb4522f3c72820d93eca3347bb3bb63ce9f519c3bc4d8"

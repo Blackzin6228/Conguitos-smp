@@ -1,0 +1,8 @@
+name = "Patchouli-1.21.1-93-NEOFORGE"
+filename = "Patchouli-1.21.1-93-NEOFORGE.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/Patchouli-1.21.1-93-NEOFORGE.jar"
+hash-format = "sha256"
+hash = "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993"

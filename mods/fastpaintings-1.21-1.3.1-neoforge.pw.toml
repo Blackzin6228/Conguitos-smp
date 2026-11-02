@@ -1,0 +1,8 @@
+name = "fastpaintings-1.21-1.3.1-neoforge"
+filename = "fastpaintings-1.21-1.3.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/fastpaintings-1.21-1.3.1-neoforge.jar"
+hash-format = "sha256"
+hash = "28a730a18cc90f536f6bd201a0119fd8bfe3bf40d8b744c892f40c749ca3e8db"

@@ -1,0 +1,8 @@
+name = "supermartijn642corelib-1.1.26-neoforge-mc1.21"
+filename = "supermartijn642corelib-1.1.26-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/supermartijn642corelib-1.1.26-neoforge-mc1.21.jar"
+hash-format = "sha256"
+hash = "cc84edb181251ac3db45239557198ba2229332e1f9d204c651ea80c83c5e3e22"

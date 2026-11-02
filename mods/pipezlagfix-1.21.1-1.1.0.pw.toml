@@ -1,0 +1,8 @@
+name = "pipezlagfix-1.21.1-1.1.0"
+filename = "pipezlagfix-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/pipezlagfix-1.21.1-1.1.0.jar"
+hash-format = "sha256"
+hash = "1d416bb28a6b6cba1489a2dd3beb77d329b1d797db8ec239d81885e2ef277051"

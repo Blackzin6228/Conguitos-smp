@@ -1,0 +1,8 @@
+name = "Rats Unofficial (Fixed)-1.21.1-8.2.6R01"
+filename = "Rats Unofficial (Fixed)-1.21.1-8.2.6R01.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/Rats%20Unofficial%20%28Fixed%29-1.21.1-8.2.6R01.jar"
+hash-format = "sha256"
+hash = "a6552a42331157b1b795c3e7c075a106b38e9c18243668815846255d6ce988b3"

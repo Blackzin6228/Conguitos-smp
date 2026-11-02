@@ -1,0 +1,8 @@
+name = "corpse-neoforge-1.21.1-1.1.22"
+filename = "corpse-neoforge-1.21.1-1.1.22.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/corpse-neoforge-1.21.1-1.1.22.jar"
+hash-format = "sha256"
+hash = "3733d86452b9ac572e924c2946e15e6b7052cc8fc990911f1c79b36ac3651b9f"

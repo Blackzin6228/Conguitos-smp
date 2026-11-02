@@ -1,0 +1,8 @@
+name = "mcjtylib-1.21-9.0.22"
+filename = "mcjtylib-1.21-9.0.22.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/mcjtylib-1.21-9.0.22.jar"
+hash-format = "sha256"
+hash = "f4b66e52844599eca0e3647ad674ccd7adb753af9f2cbc1c06ec884e8339d060"

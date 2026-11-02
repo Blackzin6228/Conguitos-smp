@@ -1,0 +1,8 @@
+name = "gametechbcs_spellbooks-3.0.0-1.21.1"
+filename = "gametechbcs_spellbooks-3.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/gametechbcs_spellbooks-3.0.0-1.21.1.jar"
+hash-format = "sha256"
+hash = "e8e5e8f605d08ec56f64de1e54dcecdb2dc95eb4d14f910db5a5b80353346d83"

@@ -1,0 +1,8 @@
+name = "aces_spell_utils-1.2.7.5-1.21.1"
+filename = "aces_spell_utils-1.2.7.5-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/aces_spell_utils-1.2.7.5-1.21.1.jar"
+hash-format = "sha256"
+hash = "8fac6ed778cbb6a7f2ba8ef80e5ca7c8585dabffcdd73b9402457b75f317ff14"

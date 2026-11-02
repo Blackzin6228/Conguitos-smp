@@ -1,0 +1,8 @@
+name = "appliedschematicannon-1.0.14"
+filename = "appliedschematicannon-1.0.14.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/appliedschematicannon-1.0.14.jar"
+hash-format = "sha256"
+hash = "59e60cf9de667033bad9f8f402763acf0793674308ee2af63d402168a224a0a2"

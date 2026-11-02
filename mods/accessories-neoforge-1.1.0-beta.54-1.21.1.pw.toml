@@ -1,0 +1,8 @@
+name = "accessories-neoforge-1.1.0-beta.54+1.21.1"
+filename = "accessories-neoforge-1.1.0-beta.54+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/accessories-neoforge-1.1.0-beta.54%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "cbecac21acbaf323349afa263b22cda67c3e836f928f6cf3f951ba460c196d15"

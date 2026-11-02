@@ -1,0 +1,8 @@
+name = "aeinfinitybooster-neoforge-2.1.0+mc1.21.1"
+filename = "aeinfinitybooster-neoforge-2.1.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/aeinfinitybooster-neoforge-2.1.0%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "91a45c796fc9eedd8c12c8d8e62cea1bd0f41b007499663ed63bc27ac4b2cdb6"

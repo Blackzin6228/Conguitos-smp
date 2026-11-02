@@ -1,0 +1,8 @@
+name = "OverflowingBars-v21.1.1-1.21.1-NeoForge"
+filename = "OverflowingBars-v21.1.1-1.21.1-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/OverflowingBars-v21.1.1-1.21.1-NeoForge.jar"
+hash-format = "sha256"
+hash = "5f856c47156915fd13ff42917401e488212bb5e2df25fde41f6ec1b032e383db"

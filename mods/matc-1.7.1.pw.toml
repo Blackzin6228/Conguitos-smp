@@ -1,0 +1,8 @@
+name = "matc-1.7.1"
+filename = "matc-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/matc-1.7.1.jar"
+hash-format = "sha256"
+hash = "d54dd6ee1925c0103bca13842a229b0a7851c4658fb2f0cd3c8b46fb9dd532a2"

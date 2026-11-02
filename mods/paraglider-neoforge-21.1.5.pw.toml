@@ -1,0 +1,8 @@
+name = "Paraglider-neoforge-21.1.5"
+filename = "Paraglider-neoforge-21.1.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/Paraglider-neoforge-21.1.5.jar"
+hash-format = "sha256"
+hash = "2f084b728383d9de7e9c652c3a92cad086e0b38f131b61f8900d25ba18734e44"

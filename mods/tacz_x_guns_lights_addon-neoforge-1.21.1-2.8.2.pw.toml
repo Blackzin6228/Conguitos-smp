@@ -1,0 +1,8 @@
+name = "tacz_x_guns_lights_addon-neoforge-1.21.1-2.8.2"
+filename = "tacz_x_guns_lights_addon-neoforge-1.21.1-2.8.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/tacz_x_guns_lights_addon-neoforge-1.21.1-2.8.2.jar"
+hash-format = "sha256"
+hash = "0a5eb940c8fec3331552c2475158571a1e66bfc9b7ddc46a345c5edba4010f89"

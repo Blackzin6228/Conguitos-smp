@@ -1,0 +1,8 @@
+name = "artifacts-neoforge-13.2.5"
+filename = "artifacts-neoforge-13.2.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/artifacts-neoforge-13.2.5.jar"
+hash-format = "sha256"
+hash = "e36a929420a0a616abdb28f5bbbdb866a426aa3bb78d1b39bc1183927c101ce6"

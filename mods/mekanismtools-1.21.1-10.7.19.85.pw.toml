@@ -1,0 +1,8 @@
+name = "MekanismTools-1.21.1-10.7.19.85"
+filename = "MekanismTools-1.21.1-10.7.19.85.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/MekanismTools-1.21.1-10.7.19.85.jar"
+hash-format = "sha256"
+hash = "e1dbca7d70df150101da535f6ab4b165a2e402fde830d34df75b58d9aad24dd8"

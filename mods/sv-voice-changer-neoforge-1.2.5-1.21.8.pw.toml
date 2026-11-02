@@ -1,0 +1,8 @@
+name = "sv-voice-changer-neoforge-1.2.5+1.21.8"
+filename = "sv-voice-changer-neoforge-1.2.5+1.21.8.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/sv-voice-changer-neoforge-1.2.5%2B1.21.8.jar"
+hash-format = "sha256"
+hash = "46197a483175c68bde52c87ecb691d397cbabb21e0068d57c219d6961cf8ed40"

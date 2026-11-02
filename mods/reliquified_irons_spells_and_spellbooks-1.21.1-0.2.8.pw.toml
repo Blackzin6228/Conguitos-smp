@@ -1,0 +1,8 @@
+name = "reliquified_irons_spells_and_spellbooks-1.21.1-0.2.8"
+filename = "reliquified_irons_spells_and_spellbooks-1.21.1-0.2.8.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/reliquified_irons_spells_and_spellbooks-1.21.1-0.2.8.jar"
+hash-format = "sha256"
+hash = "7aca272c7c9d31b7578fdbfcff81f26996afae383d6560acbab07dff53721a18"

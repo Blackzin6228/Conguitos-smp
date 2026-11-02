@@ -1,0 +1,8 @@
+name = "extended-industrialization-1.16.4-1.21.1"
+filename = "extended-industrialization-1.16.4-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/extended-industrialization-1.16.4-1.21.1.jar"
+hash-format = "sha256"
+hash = "a440f8416b6ed0f3a56009f175a7cb07d7585d985126dd6d23d58fc370061d80"

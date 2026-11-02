@@ -1,0 +1,8 @@
+name = "almanac-neoforge-1.21.1-1.26.10.3"
+filename = "almanac-neoforge-1.21.1-1.26.10.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/almanac-neoforge-1.21.1-1.26.10.3.jar"
+hash-format = "sha256"
+hash = "53367bb59e890bb11975cb9e630996c9c9373b6fe139328da7547c0eca365e22"

@@ -1,0 +1,8 @@
+name = "owo-lib-neoforge-0.12.15.6-beta.1+1.21"
+filename = "owo-lib-neoforge-0.12.15.6-beta.1+1.21.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/owo-lib-neoforge-0.12.15.6-beta.1%2B1.21.jar"
+hash-format = "sha256"
+hash = "5fc306ad3d42e1dc26812f2df856e7c232376405caab6af4f5aaffe89cd2b256"

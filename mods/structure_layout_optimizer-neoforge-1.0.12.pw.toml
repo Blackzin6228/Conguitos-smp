@@ -1,0 +1,8 @@
+name = "structure_layout_optimizer-neoforge-1.0.12"
+filename = "structure_layout_optimizer-neoforge-1.0.12.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/structure_layout_optimizer-neoforge-1.0.12.jar"
+hash-format = "sha256"
+hash = "ef8eb29c5c4f111c74a49d379843e4c2f51d11b28c8116a49be13636c83f4385"

@@ -1,0 +1,8 @@
+name = "cinematiccataclysm-1.0.1-1.21.1"
+filename = "cinematiccataclysm-1.0.1-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/cinematiccataclysm-1.0.1-1.21.1.jar"
+hash-format = "sha256"
+hash = "b0a91232fbca75f55d114e62456a957ed2c5be161c5a19bf71d8addf8316a1c9"

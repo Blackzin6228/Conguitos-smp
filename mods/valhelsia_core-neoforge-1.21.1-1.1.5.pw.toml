@@ -1,0 +1,8 @@
+name = "valhelsia_core-neoforge-1.21.1-1.1.5"
+filename = "valhelsia_core-neoforge-1.21.1-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/valhelsia_core-neoforge-1.21.1-1.1.5.jar"
+hash-format = "sha256"
+hash = "8364c248ea4b8975327bc6cc36478ecdc1567110a6c8a47ce6b43e648edd1127"

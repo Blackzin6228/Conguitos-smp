@@ -1,0 +1,8 @@
+name = "better_powah-1.2-neoforge-1.21.1"
+filename = "better_powah-1.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/better_powah-1.2-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "ec52ea0175562321670a095d674920b8c31b5b37f5f187f08f8e65cd7ed94139"

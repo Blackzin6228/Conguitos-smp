@@ -1,0 +1,8 @@
+name = "MCSP-1.21.1-V1.0.10"
+filename = "MCSP-1.21.1-V1.0.10.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/MCSP-1.21.1-V1.0.10.jar"
+hash-format = "sha256"
+hash = "9e2146996cfcbdb7f8f4210d4abd93f3d76b2a45999905ed865e60c7648dd2dd"

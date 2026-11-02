@@ -1,0 +1,8 @@
+name = "alltheleaks-1.1.14-1.21.1-neoforge"
+filename = "alltheleaks-1.1.14-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/alltheleaks-1.1.14-1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "b78b832e2c7b0d6697a8e6e846074430405f2522f14d275ba518dcf9220ebe5c"

@@ -1,0 +1,8 @@
+name = "DungeonCrawl-NeoForge-1.21-2.3.17"
+filename = "DungeonCrawl-NeoForge-1.21-2.3.17.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/DungeonCrawl-NeoForge-1.21-2.3.17.jar"
+hash-format = "sha256"
+hash = "853cd59208f17c25188a419b48d1a9fed3acebf676bb1ddd026fa4e7fb56dad4"

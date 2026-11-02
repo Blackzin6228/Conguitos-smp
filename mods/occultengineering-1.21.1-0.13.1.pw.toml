@@ -1,0 +1,8 @@
+name = "occultengineering-1.21.1-0.13.1"
+filename = "occultengineering-1.21.1-0.13.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/occultengineering-1.21.1-0.13.1.jar"
+hash-format = "sha256"
+hash = "ed2c93a14ada06e86c10cf5606676a7e3c28541778dee6ff5ede32062c89c7f1"

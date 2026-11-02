@@ -1,0 +1,8 @@
+name = "ImmediatelyFast-NeoForge-1.6.15+1.21.1"
+filename = "ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/ImmediatelyFast-NeoForge-1.6.15%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "7d7b1d7b9f71d5303e42b2fa45f222a5ab06e0ef5982abb6da5dd9cc449b3702"

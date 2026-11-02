@@ -1,0 +1,8 @@
+name = "DimStorage-1.21.1-9.1.1"
+filename = "DimStorage-1.21.1-9.1.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/DimStorage-1.21.1-9.1.1.jar"
+hash-format = "sha256"
+hash = "430e34540916cae401f8c18fe92c59d4dfa96f8e86cea3e14346bb1d2f9191db"

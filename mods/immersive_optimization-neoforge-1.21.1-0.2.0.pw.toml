@@ -1,0 +1,8 @@
+name = "immersive_optimization-neoforge-1.21.1-0.2.0"
+filename = "immersive_optimization-neoforge-1.21.1-0.2.0.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/immersive_optimization-neoforge-1.21.1-0.2.0.jar"
+hash-format = "sha256"
+hash = "c30f5f599558f9776fac7f033b1e9774e5d2f9bba3c00e34d2f8b25022344de7"

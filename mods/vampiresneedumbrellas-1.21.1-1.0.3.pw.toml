@@ -1,0 +1,8 @@
+name = "VampiresNeedUmbrellas-1.21.1-1.0.3"
+filename = "VampiresNeedUmbrellas-1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/VampiresNeedUmbrellas-1.21.1-1.0.3.jar"
+hash-format = "sha256"
+hash = "d85736638db2eeb785c0f93a35f631adc6c54ae667124c245172c410cc5cea72"

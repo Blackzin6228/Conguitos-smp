@@ -1,0 +1,8 @@
+name = "tacz-tweaks-3.0.0-alpha.10+1.21.1-neoforge"
+filename = "tacz-tweaks-3.0.0-alpha.10+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/tacz-tweaks-3.0.0-alpha.10%2B1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "4c2c1b778125e2fadf2fcc9e64cc8c4ec67d28316af0229dd991561d5a4f218d"
