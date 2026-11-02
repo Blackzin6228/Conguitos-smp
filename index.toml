@@ -1185,10 +1185,6 @@ file = "config/badoptimizations.txt"
 hash = "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9"
 
 [[files]]
-file = "config/bancocentral.json"
-hash = "58c015d4a1862296f5b223307587285970f3e5be4c6daf9ca70e062728774391"
-
-[[files]]
 file = "config/bclib/client.json"
 hash = "18fc8be45dab81815e0196e2b0cb07c3aedee37ae6cd80ce5a66530396062179"
 
@@ -2907,10 +2903,6 @@ hash = "d7f2b587b17e79e4f53984252be21832d30039f65038f3a0a71f0c80ab6815ca"
 [[files]]
 file = "config/relics.yaml"
 hash = "3a06e656323ddfd8221469c3aebf0849e65638aa886d71ceb4cbf9e023b9787d"
-
-[[files]]
-file = "config/resourceful-config-web.json"
-hash = "24fc3fc8b3745603cded52f1b5ae63305d723a58088be8579fd5046266572719"
 
 [[files]]
 file = "config/rftoolsbase-server.toml"

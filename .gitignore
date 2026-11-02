@@ -1,0 +1,4 @@
+
+# senhas e arquivos que cada máquina gera sozinha (nunca no pack público)
+config/bancocentral.json
+config/resourceful-config-web.json
