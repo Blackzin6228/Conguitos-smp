@@ -91,8 +91,6 @@ echo       RAM do PC: ~%GB% GB, o jogo vai usar %MEM% MB
   echo OverrideMemory=true
   echo MinMemAlloc=1024
   echo MaxMemAlloc=%MEM%
-  echo OverrideJavaArgs=true
-  echo JvmArgs=-XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:InitiatingHeapOccupancyPercent=15
   echo ManagedPack=false
 )
 
