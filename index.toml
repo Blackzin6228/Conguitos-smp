@@ -245,14 +245,6 @@ file = "config/almanac/almanac.json5"
 hash = "74f858bad679e77d95b71631286b01564f116c65da8b2e1ab889099f03cae0d7"
 
 [[files]]
-file = "config/almostunified/.gitignore"
-hash = "abfe79685d4d74888072befedc60b4d19c641c8cf32b48f1b332f11d0aba9a6e"
-
-[[files]]
-file = "config/almostunified/debug.json"
-hash = "435ad46870d033c8652097d64c6ec592907e5ab6f1877240532a6a1743d4fca5"
-
-[[files]]
 file = "config/almostunified/duplicates.json"
 hash = "b70f57eadf6eec0ce43acd4c441f08feac1432826e04cb8e2736a73997c20c08"
 
@@ -3189,7 +3181,7 @@ file = "config/supplementaries-common.toml"
 hash = "8d12669416f0b67ee7b7730753cc5f61b6561a4d91656e3f8c6733302b0b1127"
 
 [[files]]
-file = "config/sv-voice-changer/presets/anfitreão.properties"
+file = "config/sv-voice-changer/presets/anfitreao.properties"
 hash = "aa733a696d040c8e7b367e0a071fa994a5ebdf549fa98fd0b427b1e56495a562"
 
 [[files]]
