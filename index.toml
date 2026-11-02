@@ -9810,8 +9810,8 @@ hash = "9d193a9603b99ede8ff39f54a25aff6aafdbe856c743d37b78bcbdab3d8bc619"
 metafile = true
 
 [[files]]
-file = "mods/mascaras-1.30.0.pw.toml"
-hash = "10c9ea4634cb1b81767f1886cb7910366fe76ad28fe7acda283d2dc0923b57ff"
+file = "mods/mascaras-1.33.0.pw.toml"
+hash = "8be68f9f128d76924b5e9735ba64cdc9c5e70a28f9ee2a02b0bf98a47fe6f5f5"
 metafile = true
 
 [[files]]
