@@ -32,6 +32,7 @@ public final class Atualizador {
     private static final Pattern MOD_ID = Pattern.compile("modId\\s*=\\s*\"([^\"]+)\"");
 
     private static PrintWriter log;
+    private static final PrintStream SAIDA = new PrintStream(new FileOutputStream(FileDescriptor.out), true, StandardCharsets.UTF_8);
 
     private Atualizador() {
     }
@@ -45,15 +46,16 @@ public final class Atualizador {
     }
 
     private static void executar() {
-        if (System.getenv("CONGUITOS_ATUALIZANDO") != null) {
-            return; // é o próprio processo do packwiz: não repetir
+        if (System.getenv("CONGUITOS_ATUALIZANDO") != null || System.getProperty("conguitos.atualizado") != null) {
+            return; // é o próprio processo do packwiz, ou a linha está em dois arquivos: roda uma vez só
         }
+        System.setProperty("conguitos.atualizado", "1");
         Path raiz = Paths.get("").toAbsolutePath();
         try {
             Files.createDirectories(raiz.resolve("logs"));
             log = new PrintWriter(new OutputStreamWriter(new FileOutputStream(raiz.resolve("logs/conguitos-atualizador.log").toFile(), true), StandardCharsets.UTF_8), true);
         } catch (IOException e) {
-            log = new PrintWriter(new OutputStreamWriter(System.out, StandardCharsets.UTF_8), true);
+            log = new PrintWriter(new OutputStreamWriter(SAIDA, StandardCharsets.UTF_8), true);
         }
         try {
             if (Files.exists(raiz.resolve("nao_atualizar.txt"))) {
@@ -128,7 +130,7 @@ public final class Atualizador {
                 try (BufferedReader r = new BufferedReader(new InputStreamReader(p.getInputStream(), StandardCharsets.UTF_8))) {
                     String linha;
                     while ((linha = r.readLine()) != null) {
-                        System.out.println("[CONGUITOS] " + linha);
+                        SAIDA.println("[CONGUITOS] " + linha);
                         log.println("  " + linha);
                     }
                 } catch (IOException ignored) {
@@ -267,7 +269,7 @@ public final class Atualizador {
 
     private static void dizer(String s) {
         String linha = "[CONGUITOS] " + LocalDateTime.now().format(DateTimeFormatter.ofPattern("dd/MM HH:mm:ss")) + " " + s;
-        System.out.println(linha);
+        SAIDA.println(linha);
         log.println(linha);
     }
 }
