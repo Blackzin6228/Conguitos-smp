@@ -1,8 +1,0 @@
-name = "mascaras-1.34.0"
-filename = "mascaras-1.34.0.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/mascaras-1.34.0.jar"
-hash-format = "sha256"
-hash = "dcda9fcc2ff4637733da321cdf8cac2f1140a56a33df12dfc4a740dfb47230d1"

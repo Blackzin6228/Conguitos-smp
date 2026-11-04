@@ -1,6 +1,7 @@
 // Máscaras Relíquia — o JEI não mostra NENHUMA receita do mod (nem os ritos, nem os trajes, nem os acessórios).
 // Quem quiser saber como se faz, descobre pelo Dossiê, pelas Páginas Soltas e pela Escrita nas paredes.
 // (Os itens continuam visíveis na lista; só o "como fazer" some.)
+// As receitas de itens de OUTROS mods que ficaram mais difíceis continuam aparecendo, para o jogador saber o que juntar.
 //
 // KubeJS 7 (Minecraft 1.21+): o evento antigo JEIEvents não existe mais; agora é RecipeViewerEvents,
 // que vale para JEI, EMI e REI. O "typeof" impede o erro se o pack estiver sem visualizador de receitas.
@@ -54,18 +55,6 @@ if (typeof RecipeViewerEvents !== 'undefined') {
       'kubejs:mascaras/jaqueta_remendado',
       'kubejs:mascaras/calca_remendado',
       'kubejs:mascaras/botas_remendado',
-      'kubejs:mascaras/katana_blade',
-      'kubejs:mascaras/bow_riser',
-      'kubejs:mascaras/meka_bow',
-      'kubejs:mascaras/meka_gun',
-      'kubejs:mascaras/meka_tana',
-      'kubejs:mascaras/meka_tool',
-      'kubejs:mascaras/megatorch',
-      'kubejs:mascaras/reactor_nitro',
-      'kubejs:mascaras/tempad',
-      'kubejs:mascaras/time_in_a_bottle',
-      'kubejs:mascaras/infinity_cobblestone_cell',
-      'kubejs:mascaras/infinity_water_cell',
       'mascaras:dossie',
       'mascaras:giz_ritual',
       'mascaras:marco_do_limiar'

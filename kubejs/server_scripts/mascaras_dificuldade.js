@@ -61,10 +61,12 @@ ServerEvents.recipes(event => {
 
   // ---------------- Powah: Reator Nitro ----------------
   event.remove({ id: 'powah:crafting/reactor_nitro' })
-  event.shaped('4x powah:reactor_nitro', ['RLR', 'LVL', 'RLR'], {
+  // (um dos reatores virou Componente da Energia: o Avesso cobra a sua parte)
+  event.shaped('4x powah:reactor_nitro', ['RLR', 'LVL', 'RLE'], {
     R: 'powah:reactor_spirited',
     L: 'powah:capacitor_nitro',
-    V: 'allthemodium:vibranium_block'
+    V: 'allthemodium:vibranium_block',
+    E: 'mascaras:componente_energia'
   }).id('kubejs:mascaras/reactor_nitro')
 
   // ---------------- Torchmaster: Megatocha ----------------
