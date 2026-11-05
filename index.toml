@@ -3550,31 +3550,15 @@ hash = "231c81f8c749677221f4d09c974fa68a47fe033e80c03cdab6839066ce9b313e"
 
 [[files]]
 file = "kubejs/server_scripts/mascaras_dificuldade.js"
-hash = "9656712e32a37ab05de75ebd4d55a53fd012cb0192156210503852f9a86d571c"
+hash = "24bb176ca5e5a3e34ac683bdc57980f4d95e0fdae6a1e01ae6dac206fcb23679"
 
 [[files]]
 file = "kubejs/server_scripts/mascaras_expert.js"
-hash = "c714a429a0728f572da7e4ac92b91befa5b4aebbbf59dd68e101fa6cf06c7cc8"
-
-[[files]]
-file = "kubejs/server_scripts/mascaras_mystical.js"
-hash = "d10403e63c6ce5c891fd09bc87533d93d2dddd43a66f6d8c179bb7f12a0acf1d"
-
-[[files]]
-file = "kubejs/server_scripts/mascaras_novos_mods.js"
-hash = "21717af200a0825c9d7289c522b1ec55adae2ae260ac6ff78eb99bc870617712"
-
-[[files]]
-file = "kubejs/server_scripts/mascaras_tech_nova.js"
-hash = "1e1bce82574bbbfa72a40768346ec7009413290e0cee75ed5326c89c2eb67b79"
+hash = "636327f769eb361c8ba80713625e6f2c85755e53ef427e2a12ee9374e82f6b55"
 
 [[files]]
 file = "kubejs/server_scripts/nomes_ocultos.js"
 hash = "8b444269e31807c0bedb787c0a22d4e6b8ef1424250ff4d13bada2bc40447d7e"
-
-[[files]]
-file = "kubejs/server_scripts/zz_mascaras_integracao.js"
-hash = "d8dade1ee5eb680d163335bc9bdbe9ab1621512af949e8e28286327ee46909ae"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"

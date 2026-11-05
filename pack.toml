@@ -1,12 +1,12 @@
 name = "CONGUITOS SMP"
 author = "Nikolas"
-version = "8.4.0"
+version = "8.5.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "318746368c8c8ac74a95fdd06860c110c15355bcadd8eb3bb6df181560c35718"
+hash = "c4ecabfc43655c29fbd3043f62e0c463713ff01f939070406fec51c5f9c1b002"
 
 [versions]
 minecraft = "1.21.1"
