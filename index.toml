@@ -8936,6 +8936,11 @@ hash = "a2d10da4d5d7eccd8b0c9fe87108f5efa17f93e5b0e6480aa75b71d7d5f5e308"
 metafile = true
 
 [[files]]
+file = "mods/buildinggadgets2-21.1.1.pw.toml"
+hash = "0b107541c4da603c2fe7b49095a576d3a9389ad3bab357f747a3c03f606e71b5"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124.pw.toml"
 hash = "85f6b032064c03e304e307c428703914985305106521fdc549fa564af1b1fd05"
 metafile = true
@@ -9233,6 +9238,11 @@ metafile = true
 [[files]]
 file = "mods/edivadlib-1.21-3.0.0.pw.toml"
 hash = "abc9e79a1db835a56056a219fe2d490d5b2d4c9d1b9d86586a1ba8cee0ab4398"
+metafile = true
+
+[[files]]
+file = "mods/elevatorid-neoforge-1.21.1-1.11.4.pw.toml"
+hash = "1e941d62d0d608e0cc323a929b18291ff47c3b66325f215b30e86afa7f4fca54"
 metafile = true
 
 [[files]]
