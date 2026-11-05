@@ -26,6 +26,7 @@ PASTAS = ["config", "kubejs", "shaderpacks", "mods"]
 IGNORAR = {".DS_Store", "Thumbs.db"}
 
 # ------------------------------------------------------------------ lado de cada mod (só quando é claramente cliente)
+# (xaeros_waystones_compatibility NÃO entra aqui: ele tem canal obrigatório no servidor, sem ele o jogador não conecta)
 # Tudo que não estiver aqui vai como "both" (vale para o servidor também). Nome = começo do arquivo, minúsculo.
 CLIENTE = [
     "sodium", "sodiumsable", "iris", "embeddium", "entityculling", "dynamic-fps", "immediatelyfast", "badoptimizations",
@@ -34,7 +35,7 @@ CLIENTE = [
     "particlerain", "particular", "asyncparticles", "overflowingbars", "better-advanced-tooltips", "obscure_tooltips",
     "apothic_tooltip_cleanup", "cinematiccataclysm", "smoothchunk", "redirected", "flerovium", "ksyxis",
     "justenoughresources", "justenoughprofessions", "justenoughmekanismmultiblocks", "mekagenjei", "xaerominimap",
-    "xaeroworldmap", "xaeroplus", "xaeros_waystones", "fastpaintings", "legendarytooltips", 
+    "xaeroworldmap", "xaeroplus", "fastpaintings", "legendarytooltips", 
 ]
 # mods que só fazem sentido no servidor (o cliente não precisa, mas também não atrapalha)
 SERVIDOR = ["servercore", "letmedespawn", "immersive_optimization", "crashutilities", "vcadmin"]
