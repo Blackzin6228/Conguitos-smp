@@ -10151,6 +10151,11 @@ hash = "e5dda4de863ed79f7205416357952116d2c4f88863cca791c052c0337802d817"
 metafile = true
 
 [[files]]
+file = "mods/productivebees-1.21.1-13.13.5.pw.toml"
+hash = "fd837423d086c6e83d52fbd32ea93fd05d6fd5b0a7a0e6cc4c2d3b7216b351dc"
+metafile = true
+
+[[files]]
 file = "mods/productivemetalworks-1.21.1-1.15.1.pw.toml"
 hash = "187bdaf7881fda553792e387431d6a702b4f300a2e73f6b04b906685db2a8770"
 metafile = true

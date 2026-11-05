@@ -1,0 +1,8 @@
+name = "productivebees-1.21.1-13.13.5"
+filename = "productivebees-1.21.1-13.13.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/productivebees-1.21.1-13.13.5.jar"
+hash-format = "sha256"
+hash = "a5e29e91195edff2a504f3e1c79b10c2aca8fad29a02d75f5d5110dc112ddf02"
