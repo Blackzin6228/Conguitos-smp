@@ -1,6 +1,6 @@
 name = "xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0"
 filename = "xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar"
