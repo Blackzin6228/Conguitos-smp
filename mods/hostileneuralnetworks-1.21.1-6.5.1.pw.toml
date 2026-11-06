@@ -1,0 +1,8 @@
+name = "HostileNeuralNetworks-1.21.1-6.5.1"
+filename = "HostileNeuralNetworks-1.21.1-6.5.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Blackzin6228/Conguitos-smp/main/jars/HostileNeuralNetworks-1.21.1-6.5.1.jar"
+hash-format = "sha256"
+hash = "dd56c109a76cdd2c2bf73a1e62aed7218d087fa1401a539b0d5576386f9ff545"

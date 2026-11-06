@@ -9530,6 +9530,11 @@ hash = "a96671832a2cd71c7d7a3d470179b779227ff4f75c47b64d623803050e2f468f"
 metafile = true
 
 [[files]]
+file = "mods/hostileneuralnetworks-1.21.1-6.5.1.pw.toml"
+hash = "6f822a49d34f2ef69ca1dd86fe9bf1af93ec298b3e55f12b03e658bb862e5954"
+metafile = true
+
+[[files]]
 file = "mods/iceandfire-2.1.4.pw.toml"
 hash = "c01a4b5ea3b09be4ccaabed1222a4c3b9514abc2bc5b5ffd8cf0138dc3e61264"
 metafile = true
