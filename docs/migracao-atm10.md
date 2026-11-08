@@ -1,7 +1,7 @@
 # Migração para o ATM10 — rascunho (08/11/2026)
 
 Base: **All the Mods 10 versão 8.5** (NeoForge **21.1.265**, ~490 mods). Lista do ATM10 montada a partir dos changelogs oficiais (`AllTheMods/ATM-10`);
-a comparação foi feita pelo nome de cada mod, então **é aproximada**: confirmar com a instalação real do ATM10.
+**Confirmado com a instalação real do Nikolas** (ATM10 8.5, NeoForge 21.1.265, 498 mods): não vêm no ATM10 Botânia, Malum, Vampirism, Simple Voice Chat, Enigmatic, AAA Particles nem mapa Xaero. Túmulo do ATM10: Corail Tombstone.
 
 - Mods do Conguitos que o ATM10 **já tem**: ~179 (ficam na versão do ATM10).
 - Mods que **só o Conguitos tem**: 231, separados abaixo.
