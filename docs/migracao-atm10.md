@@ -254,6 +254,25 @@ a comparação foi feita pelo nome de cada mod, então **é aproximada**: confir
 - [ ] YUNG's Better Jungle Temples
 - [ ] YUNG's Better Mineshafts
 
+## ✅ Escolha do Nikolas (08/11/2026)
+
+**Vão:** Enhanced Celestials 2 (Core, Default Lunar Events, Shader Support) · Particle Rain · Chat Animation · Chat Heads ·
+Cinematic Cataclysm · Cool Rain Reforged · Enigmatic Arcana · Fakename · Immersive Optimization (testar) · Malum ·
+Occultism: Dyenamics Chalks · Occultism: Extra Spirits · Paragliders · Particular Reforged · PlayerRevive ·
+Simple Voice Voice Changer · Simply More · Simply Swords · Simply Swords: Cataclysm · Simply Tooltips · Simply Bows · Skin Layers 3D
+
+**Já vêm no ATM10 (não precisa levar):** Tempad.
+**Não vai:** Tempad to Map (precisa do Xaero's Minimap; o ATM10 usa JourneyMap/FTB Chunks).
+
+**Dependências que vão junto sozinhas:** Lodestone (Malum), Enigmatic Legacy+ (se o Enigmatic Arcana pedir), bibliotecas dos Simply Swords/Enhanced Celestials.
+
+**Sugestão da cabeça do projeto (esperando o Nikolas):**
+- **Simple Voice Chat** — obrigatório: sem ele o Voice Changer não funciona.
+- **Vampirism** — a lore e as integrações usam (sangue).
+- **Botania Revived** — integração da lore (natureza/mana); o ATM10 não tem Botânia.
+- **AAA Particles** — efeitos das magias e animações.
+- **Máscaras Relíquia e Banco Central** — os mods próprios do servidor: levar ou não?
+
 ## Próximos passos
 1. Nikolas marca os mods de conteúdo.
 2. Conferir dependências e versões de cada um contra o ATM10 8.5.
