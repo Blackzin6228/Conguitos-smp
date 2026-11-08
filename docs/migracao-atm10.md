@@ -260,3 +260,4 @@ a comparação foi feita pelo nome de cada mod, então **é aproximada**: confir
 3. Montar o pack packwiz (ATM10 importado + extras), repositório privado, publicado na Vercel para o Prism.
 4. Teste no GitHub: servidor ATM10 + extras + nossos mods, sem crash.
 5. Mundo novo para o play test (backup do atual).
+6. **Resource pack nosso** entra no pack (pasta `resourcepacks/` do packwiz), já ativado para quem instalar. O visual dos itens e criaturas do nosso mod vai dentro do próprio mod; o resource pack muda o resto (interface, itens/mobs vanilla e de outros mods). Ele só fica pronto no fim, junto com a modelagem.
